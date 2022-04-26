@@ -3,6 +3,10 @@ id|type|fields
 4967a41b-13e6-4c0e-adae-331ef39b6183|network|{"name":"Conflux Network CVM space (Core-Space)","url":"https://confluxscan.io/","features":[],"icon":""}
 4d8fafd5-7938-4f80-9e18-59e5a92059a2|network|{"name":"Etherum Network","url":"https://etherscan.io/","features":[],"icon":""}
 ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|network|{"name":"BNB Chain","url":"https://bscscan.com/","features":[],"icon":""}
+ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777|network|{"name":"Avalance","url":"https://avascan.info/","features":[],"icon":""}
+d2cf9999-e014-443e-9c60-2901fbc67a07|network|{"name":"Polygon","url":"https://polygonscan.com/","features":[],"icon":""}
+ef89f8c5-4e02-4c8b-9557-559dc935c043|network|{"name":"Fantom","url":"https://ftmscan.com/","features":[],"icon":""}
+6eac7082-4692-4e44-832b-05a102aa33a7|network|{"name":"Tron","url":"https://tronscan.org/","features":[],"icon":""}
 9e24ae87-db29-4e95-bfaf-93a40af6e60c|dapp|{"name":"Swappi","url":"https://swappi.io/","features":["dex","farms"],"icon":""}
 53c43d9e-deb1-42e5-b99b-888822f412bd|dapp|{"name":"Flux","url":"https://flux.01.finance/","features":["lending","farms"],"icon":""}
 955c3a79-6a0b-4460-897c-fe83d0f0dc82|dapp|{"name":"Turbo Starter","url":"https://turbostarter.io/","features":["launchpad"],"icon":""}
