@@ -29,7 +29,9 @@ ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|1bd05ed9-6124-416b-bafe-e1d1f7ef53bc|has_tr
 ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|06b2d31a-5508-49e3-816a-99a7730c1a62|has_transactor
 28676732-6705-47a4-964a-e41bf886e38f|4d8fafd5-7938-4f80-9e18-59e5a92059a2|transacts_on
 28676732-6705-47a4-964a-e41bf886e38f|ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|transacts_on
+28676732-6705-47a4-964a-e41bf886e38f|dcbe0ed5-a40f-490d-96cb-12b403f51037|transacts_on
 4d8fafd5-7938-4f80-9e18-59e5a92059a2|28676732-6705-47a4-964a-e41bf886e38f|has_transactor
+dcbe0ed5-a40f-490d-96cb-12b403f51037|28676732-6705-47a4-964a-e41bf886e38f|has_transactor
 ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|28676732-6705-47a4-964a-e41bf886e38f|has_transactor
 c0cdbcc4-092a-4cdd-b1b0-99ebf743dfb1|4d8fafd5-7938-4f80-9e18-59e5a92059a2|transacts_on
 4d8fafd5-7938-4f80-9e18-59e5a92059a2|c0cdbcc4-092a-4cdd-b1b0-99ebf743dfb1|has_transactor
@@ -41,6 +43,10 @@ ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|024eb4f2-81ed-4a89-84f0-b23f5b67364b|has_tr
 7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|3d518595-b967-4b97-8770-0ce10da1548f|has_transactor
 a4469737-c693-4d74-ad2c-59d16877e9b4|ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|transacts_on
 ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|a4469737-c693-4d74-ad2c-59d16877e9b4|has_transactor
+759e83a5-ff25-4265-bbc4-9b79cfa93e07|7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|transacts_on
+7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|759e83a5-ff25-4265-bbc4-9b79cfa93e07|has_transactor
+759e83a5-ff25-4265-bbc4-9b79cfa93e07|4967a41b-13e6-4c0e-adae-331ef39b6183|transacts_on
+4967a41b-13e6-4c0e-adae-331ef39b6183|759e83a5-ff25-4265-bbc4-9b79cfa93e07|has_transactor
 b8bd713a-a156-4d94-8096-e434c5cfaad7|4967a41b-13e6-4c0e-adae-331ef39b6183|signs_on
 e3f3b37d-e42b-4070-bfbb-6892f3967fa7|7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|signs_on
 b33a91e5-0452-4217-95f1-c5898586ce1d|7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|signs_on
