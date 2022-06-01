@@ -23,6 +23,13 @@ a4469737-c693-4d74-ad2c-59d16877e9b4|cex|{"name":"Binance","url":"https://www.bi
 b8bd713a-a156-4d94-8096-e434c5cfaad7|wallet|{"name":"Fluent Wallet","url":"https://fluentwallet.com/","features":[],"icon":""}
 e3f3b37d-e42b-4070-bfbb-6892f3967fa7|wallet|{"name":"MetaMask","url":"https://metamask.io/","features":[],"icon":""}
 b33a91e5-0452-4217-95f1-c5898586ce1d|wallet|{"name":"Token Pocket","url":"https://www.tokenpocket.pro/","features":[],"icon":""}
+8d63f259-518b-4598-ae10-a8d197720048|wallet|{"name":"Fox Wallet","url":"https://foxwallet.com/","features":[],"icon":""}
+24f354fb-b8ce-48af-9b13-aa674a337185|wallet|{"name":"Moonswap App","url":"https://moonswap.fi/","features":[],"icon":""}
+63d98df3-4e63-4ba4-9e69-36f7d1db831c|wallet|{"name":"Lead Wallet","url":"https://leadwallet.io/","features":[],"icon":""}
+0d08ad95-4bcb-4589-b8d7-fb0a1dfaead8|wallet|{"name":"Jade Wallet","url":"https://www.jadewallet.io/","features":[],"icon":""}
+f6cab06c-9f52-454b-a68e-7538cd0a3324|wallet|{"name":"Coin98","url":"https://coin98.com/","features":[],"icon":""}
+72eb9f19-894a-408c-b909-c86b9dc578ff|wallet|{"name":"Box Wallet","url":"https://www.aebox.io/","features":[],"icon":""}
+8d792dae-41df-4571-8099-010555ab1294|wallet|{"name":"Math Wallet","url":"https://mathwallet.org/","features":[],"icon":""}
 3e193e28-b9e1-456e-849f-ffd982a68e1b|coin|{"name":"eSpace CFX","symbol":"CFX","address":"native coin","url":"https://evm.confluxscan.io/","features":[],"icon":""}
 96f57f81-d2b8-4a14-8caa-eb621a13c73a|coin|{"name":"Core-Space CFX","symbol":"CFX","address":"native coin","url":"https://confluxscan.io/","features":[],"icon":""}
 1db9c164-dd6a-4339-95ff-ea69fcb9e890|coin|{"name":"Etherum Network ETH","symbol":"ETH","address":"native coin","url":"https://etherscan.io/","features":[],"icon":""}
@@ -49,3 +56,22 @@ fd5ecd60-81eb-4f8f-8113-436e658c2137|token|{"name":"Core-Space Wrapped BTC","sym
 292fdd1c-a0f5-4029-bc36-0e3b23e0c7e5|token_group|{"name":"ETH Token Group","symbol":"ETH","features":[],"icon":""}
 9f067efd-7a2c-47b5-94fa-148aaa8aa367|token_group|{"name":"BNB Token Group","symbol":"BNB","features":[],"icon":""}
 d95bb2e2-9a56-477c-895d-dc4c47e5e5d1|token_group|{"name":"BTC Token Group","symbol":"BTC","features":[],"icon":""}
+c9df9276-e65b-4d21-85f7-6e0e3cfa7491|cex|{"name":"Billance","url":"https://www.billance.com/","features":[],"icon":""}
+d93331f8-c31a-45c8-a146-c680705faaf1|cex|{"name":"Pionex","url":"https://www.pionex.com/","features":[],"icon":""}
+0af80904-cfaa-445c-bb49-bbee5fe731d9|cex|{"name":"OKX","url":"https://www.okx.com/","features":[],"icon":""}
+b225affd-228a-444f-9633-bc27e5d58992|cex|{"name":"CITEX","url":"www.citex.io","features":[],"icon":""}
+ae21b550-22bd-49e8-b9d3-97e48e719a56|cex|{"name":"Bitcoiva","url":"https://www.bitcoiva.com/markets","features":[],"icon":""}
+82a6dfb8-81be-44f5-b974-24f55df80228|cex|{"name":"DigiFinex","url":"https://www.digifinex.com/","features":[],"icon":""}
+aa2df60b-1739-4e48-b746-26731e6ba8fd|cex|{"name":"MEXC","url":"https://www.mexc.com/","features":[],"icon":""}
+c7828b8b-f68f-439d-b726-4ed6b8830926|cex|{"name":"Hoo","url":"https://hoo.com","features":[],"icon":""}
+38c7e7f5-9105-4a7b-be74-e88aadca56f3|cex|{"name":"BingX","url":"https://www.bingx.com/en-us/","features":[],"icon":""}
+ff2ef38f-4fbb-4100-89f6-fe0ac1b1497e|cex|{"name":"Jubi","url":"https://www.jbex.com/exchange","features":[],"icon":""}
+ae192521-18d6-46a7-adbc-5b8ed6db3e80|cex|{"name":"Bibox","url":"https://www.bibox.com/","features":[],"icon":""}
+b6c668af-6c33-4f89-b34d-cffb1bc21800|cex|{"name":"BKEX","url":"https://www.bkex.com/","features":[],"icon":""}
+251d5fc8-dde8-420c-acb5-f39bd2918823|cex|{"name":"ZB.COM","url":"https://www.zb.com/","features":[],"icon":""}
+f94da349-d74a-403a-a2a7-8512850c13e6|cex|{"name":"MEXO","url":"https://www.mexo.io","features":[],"icon":""}
+bb07fd32-9d88-4820-9e5c-352bc3de4887|cex|{"name":"CoinEx","url":"https://www.coinex.com/","features":[],"icon":""}
+9f63583c-c196-41d8-bff7-2da0c10950fa|cex|{"name":"Tokocrypto","url":"https://www.tokocrypto.com/","features":[],"icon":""}
+0047260c-78f4-4e96-98c5-34eef0892ee2|cex|{"name":"WazirX","url":"https://wazirx.com/","features":[],"icon":""}
+b9f4b37d-2ce1-4dae-9855-7d2b33065698|cex|{"name":"Indodax","url":"https://indodax.com/","features":[],"icon":""}
+fb45a644-21b0-42ca-a751-5eabcf294b53|cex|{"name":"Hotbit","url":"https://www.hotbit.io/","features":[],"icon":""}
