@@ -34,6 +34,7 @@ f6cab06c-9f52-454b-a68e-7538cd0a3324|wallet|{"name":"Coin98","url":"https://coin
 96f57f81-d2b8-4a14-8caa-eb621a13c73a|coin|{"name":"Core-Space CFX","symbol":"CFX","address":"native coin","url":"https://confluxscan.io/","features":[],"icon":""}
 1db9c164-dd6a-4339-95ff-ea69fcb9e890|coin|{"name":"Etherum Network ETH","symbol":"ETH","address":"native coin","url":"https://etherscan.io/","features":[],"icon":""}
 37d95293-39cf-48b7-a1b3-cd028f90295a|coin|{"name":"Binance Coin","symbol":"BNB","address":"native coin","url":"https://bscscan.com/","features":[],"icon":""}
+cb8983d8-5d01-4b4b-8d0b-6703e6d893c1|token|{"name":"KCC CFX","symbol":"CFX","address":"0x4792c1ecb969b036eb51330c63bd27899a13d84e","url":"https://explorer.kcc.io/en/token/0x4792c1ecb969b036eb51330c63bd27899a13d84e","features":[],"icon":""}
 cfe5c5fd-88a6-4128-8756-b7a636733336|token|{"name":"Binance Wrapped CFX","symbol":"bCFX","address":"0x045c4324039dA91c52C55DF5D785385Aab073DcF","url":"https://bscscan.com/address/0x045c4324039dA91c52C55DF5D785385Aab073DcF","features":[],"icon":""}
 8e087a91-6752-407e-8fde-475dd1cd85c0|token|{"name":"eSpace Swappi Token","symbol":"PPI","address":"0x22f41abf77905f50df398f21213290597e7414dd","url":"https://evm.confluxscan.io/address/0x22f41abf77905f50df398f21213290597e7414dd","features":[],"icon":""}
 236355d8-7de5-4746-9df5-3de84947a1cb|token|{"name":"eSpace space Multichain","symbol":"MULTI","address":"0x9fb9a33956351cf4fa040f65a13b835a3c8764e3","url":"https://evm.confluxscan.io/address/0x9fb9a33956351cf4fa040f65a13b835a3c8764e3","features":[],"icon":""}
