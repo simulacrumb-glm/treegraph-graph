@@ -1,7 +1,7 @@
 id|type|fields
 7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|network|{"name":"Conflux eSpace","url":"https://evm.confluxscan.io/","features":[],"icon":""}
 4967a41b-13e6-4c0e-adae-331ef39b6183|network|{"name":"Conflux Core space","url":"https://confluxscan.io/","features":[],"icon":""}
-4d8fafd5-7938-4f80-9e18-59e5a92059a2|network|{"name":"Etherum Network","url":"https://etherscan.io/","features":[],"icon":""}
+4d8fafd5-7938-4f80-9e18-59e5a92059a2|network|{"name":"Ethereum Network","url":"https://etherscan.io/","features":[],"icon":""}
 ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|network|{"name":"BNB Chain","url":"https://bscscan.com/","features":[],"icon":""}
 ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777|network|{"name":"Avalance","url":"https://avascan.info/","features":[],"icon":""}
 d2cf9999-e014-443e-9c60-2901fbc67a07|network|{"name":"Polygon","url":"https://polygonscan.com/","features":[],"icon":""}
@@ -32,7 +32,7 @@ f6cab06c-9f52-454b-a68e-7538cd0a3324|wallet|{"name":"Coin98","url":"https://coin
 8d792dae-41df-4571-8099-010555ab1294|wallet|{"name":"Math Wallet","url":"https://mathwallet.org/","features":[],"icon":""}
 3e193e28-b9e1-456e-849f-ffd982a68e1b|coin|{"name":"eSpace CFX","symbol":"CFX","address":"native coin","url":"https://evm.confluxscan.io/","features":[],"icon":""}
 96f57f81-d2b8-4a14-8caa-eb621a13c73a|coin|{"name":"Core-Space CFX","symbol":"CFX","address":"native coin","url":"https://confluxscan.io/","features":[],"icon":""}
-1db9c164-dd6a-4339-95ff-ea69fcb9e890|coin|{"name":"Etherum Network ETH","symbol":"ETH","address":"native coin","url":"https://etherscan.io/","features":[],"icon":""}
+1db9c164-dd6a-4339-95ff-ea69fcb9e890|coin|{"name":"Ethereum Network ETH","symbol":"ETH","address":"native coin","url":"https://etherscan.io/","features":[],"icon":""}
 37d95293-39cf-48b7-a1b3-cd028f90295a|coin|{"name":"Binance Coin","symbol":"BNB","address":"native coin","url":"https://bscscan.com/","features":[],"icon":""}
 cb8983d8-5d01-4b4b-8d0b-6703e6d893c1|token|{"name":"KCC CFX","symbol":"CFX","address":"0x4792c1ecb969b036eb51330c63bd27899a13d84e","url":"https://explorer.kcc.io/en/token/0x4792c1ecb969b036eb51330c63bd27899a13d84e","features":[],"icon":""}
 cfe5c5fd-88a6-4128-8756-b7a636733336|token|{"name":"Binance Wrapped CFX","symbol":"bCFX","address":"0x045c4324039dA91c52C55DF5D785385Aab073DcF","url":"https://bscscan.com/address/0x045c4324039dA91c52C55DF5D785385Aab073DcF","features":[],"icon":""}
