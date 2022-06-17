@@ -8,9 +8,23 @@ d2cf9999-e014-443e-9c60-2901fbc67a07|network|{"name":"Polygon","url":"https://po
 ef89f8c5-4e02-4c8b-9557-559dc935c043|network|{"name":"Fantom","url":"https://ftmscan.com/","features":[],"icon":""}
 6eac7082-4692-4e44-832b-05a102aa33a7|network|{"name":"Tron","url":"https://tronscan.org/","features":[],"icon":""}
 dcbe0ed5-a40f-490d-96cb-12b403f51037|network|{"name":"KCC","url":"https://explorer.kcc.io/en","features":[],"icon":""}
+0412306a-2f7c-4b94-b707-270b880f7b15|network|{"name":"OKC","url":"https://www.oklink.com/okc","features":[],"icon":""}
+4a10699a-8588-44b7-9534-aa8cf7e3244c|network|{"name":"Harmony","url":"https://explorer.harmony.one/","features":[],"icon":""}
+c7692437-43d8-4704-b6c6-a48a3900bc2b|network|{"name":"Iotex","url":"https://iotexscan.io/","features":[],"icon":""}
+e4c7fa86-372e-41e6-9ef3-1a26729f56de|network|{"name":"Gnosis(xDAI)","url":"https://blockscout.com/xdai/mainnet","features":[],"icon":""}
+d1ca7197-dc59-4dd3-b50b-dbdf2332875f|network|{"name":"Arbitrum","url":"https://arbiscan.io/","features":[],"icon":""}
+afab465f-da9a-42db-868b-4e8be1b8ea4f|network|{"name":"Aurora","url":"https://explorer.mainnet.aurora.dev/","features":[],"icon":""}
+540d0b08-0f27-4be5-a228-95ba8495ea0a|network|{"name":"Heco","url":"https://hecoinfo.com/","features":[],"icon":""}
+22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5|network|{"name":"Optimism","url":"https://optimistic.etherscan.io/","features":[],"icon":""}
+eb6cf13a-a594-490d-9df4-93447f6dd977|network|{"name":"CLV Parachain","url":"https://clover.subscan.io/","features":[],"icon":""}
+707a38b7-c327-477f-b2f5-b00a33ee4e1a|network|{"name":"Moonriver","url":"https://moonriver.moonscan.io/","features":[],"icon":""}
+626f3875-5051-4aea-87e3-4434120e44bf|network|{"name":"Metis","url":"https://andromeda-explorer.metis.io/","features":[],"icon":""}
+593257e9-60a0-4531-8cdc-2c61732c62b6|network|{"name":"Evmos","url":"https://www.mintscan.io/evmos","features":[],"icon":""}
+74061694-e079-4752-ae73-87a07198e25b|network|{"name":"Moonbeam","url":"https://moonscan.io/","features":[],"icon":""}
 9e24ae87-db29-4e95-bfaf-93a40af6e60c|dapp|{"name":"Swappi","url":"https://swappi.io/","features":["dex","farms"],"icon":""}
 53c43d9e-deb1-42e5-b99b-888822f412bd|dapp|{"name":"Flux","url":"https://flux.01.finance/","features":["lending","farms"],"icon":""}
 955c3a79-6a0b-4460-897c-fe83d0f0dc82|dapp|{"name":"Turbo Starter","url":"https://turbostarter.io/","features":["launchpad"],"icon":""}
+9712aa7b-d96f-4bb1-b3fb-a7f058604479|bridge|{"name":"BoringDAO","url":"https://www.boringdao.com/","features":["bridge"],"icon":""}
 06b2d31a-5508-49e3-816a-99a7730c1a62|bridge|{"name":"Meson","url":"https://meson.fi/","features":["bridge"],"icon":""}
 28676732-6705-47a4-964a-e41bf886e38f|bridge|{"name":"Multichain","url":"https://multichain.org/","features":["bridge"],"icon":""}
 c0cdbcc4-092a-4cdd-b1b0-99ebf743dfb1|bridge|{"name":"cBridge","url":"https://cbridge.celer.network/","features":["bridge"],"icon":""}
