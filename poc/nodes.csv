@@ -20,6 +20,7 @@ eb6cf13a-a594-490d-9df4-93447f6dd977|network|{"name":"CLV Parachain","url":"http
 707a38b7-c327-477f-b2f5-b00a33ee4e1a|network|{"name":"Moonriver","url":"https://moonriver.moonscan.io/","features":[],"icon":""}
 626f3875-5051-4aea-87e3-4434120e44bf|network|{"name":"Metis","url":"https://andromeda-explorer.metis.io/","features":[],"icon":""}
 593257e9-60a0-4531-8cdc-2c61732c62b6|network|{"name":"Evmos","url":"https://www.mintscan.io/evmos","features":[],"icon":""}
+2932ce19-1a50-4ead-92f6-d61bde186a4f|network|{"name":"Arweave","url":"https://viewblock.io/arweave","features":[],"icon":""}
 74061694-e079-4752-ae73-87a07198e25b|network|{"name":"Moonbeam","url":"https://moonscan.io/","features":[],"icon":""}
 9e24ae87-db29-4e95-bfaf-93a40af6e60c|dapp|{"name":"Swappi","url":"https://swappi.io/","features":["dex","farms"],"icon":""}
 53c43d9e-deb1-42e5-b99b-888822f412bd|dapp|{"name":"Flux","url":"https://flux.01.finance/","features":["lending","farms"],"icon":""}
@@ -31,6 +32,7 @@ c0cdbcc4-092a-4cdd-b1b0-99ebf743dfb1|bridge|{"name":"cBridge","url":"https://cbr
 5e0fd9f4-0d24-4155-936e-e8e51c249904|bridge|{"name":"Confluxhub Cross-Space Bridge","url":"https://confluxhub.io/espace-bridge/cross-space","features":["bridge"],"icon":""}
 024eb4f2-81ed-4a89-84f0-b23f5b67364b|bridge|{"name":"Confluxhub BNB-eSpace Bridge","url":"https://confluxhub.io/espace-bridge/bsc-esapce-cfx","features":[],"icon":""}
 1bd05ed9-6124-416b-bafe-e1d1f7ef53bc|bridge|{"name":"Confluxhub Shuttleflow","url":"https://confluxhub.io/shuttle-flow/","features":[],"icon":""}
+51a037d9-0c69-45e2-9399-895143ecaec7|bridge|{"name":"Everpay","url":"https://everpay.io/","features":[],"icon":""}
 3d518595-b967-4b97-8770-0ce10da1548f|cex|{"name":"KuCoin","url":"https://www.kucoin.com/","features":["cex"],"icon":""}
 a4469737-c693-4d74-ad2c-59d16877e9b4|cex|{"name":"Binance","url":"https://www.binance.com/","features":[],"icon":""}
 759e83a5-ff25-4265-bbc4-9b79cfa93e07|cex|{"name":"Gate.io","url":"https://www.gate.io/","features":[],"icon":""}
