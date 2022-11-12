@@ -5,23 +5,28 @@
       body {
         font: 14px helvetica neue, helvetica, arial, sans-serif;
       }
-
-      #cy {
-        height: 95%;
-        width: 100%;
-        position: absolute;
-        left: 0;
-        top: 100px;
-        background: white;
-      }
-
       #myBtnContainer {
         height: 5%;
         width: 100%;
         position: absolute;
         background: white;
       }
-
+      #cy {
+        height: 50%;
+        width: 100%;
+        position: absolute;
+        top: 5%;
+        bottom: 60%;
+        background: white;
+      }
+      #list {
+        height: 45%;
+        width: 100%;
+        position: absolute;
+        top: 60%;
+        bottom: 100%;
+        background: lightgrey;
+      }
     </style>
   </head>
 
@@ -34,7 +39,7 @@
       <button class="btn" onclick="filterData('wallet')">Wallets</button>
       <button class="btn" onclick="filterData('coin')">Coins</button>
     </div>
-
+    <table id="list"></table>
   </body>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.2.5/cytoscape.js"></script>
   <script src="https://unpkg.com/layout-base/layout-base.js"></script>
@@ -1911,8 +1916,8 @@
       var data = {}
       data.nodes = nodes
       data.edges = edges
-
-      return data
+      
+      return
     }
 
     async function filterData(option) {
@@ -1990,8 +1995,42 @@
       data.edges = edges
       cy.json({ elements: data });
       cy.layout(fcoseOptions).run()
-
+      
+      var parentNode = document.getElementById('list')
+      removeAllChildNodes(parentNode)
+      
+      for (x=0;x<nodes.length;x++){
+        var listItem = nodes[x];
+        
+        addChildListRow(parentNode, listItem);
+      }
+      
       return
+    }
+    
+    
+    function addChildListRow(parentNode,listItem){
+      var row = document.createElement("tr");
+      
+      var col1 = document.createElement("td");
+      col1.textContent = listItem.data.name;
+      
+      var col2 = document.createElement("td");
+      col2.textContent = listItem.data.type;
+      
+      var col3 = document.createElement("td");
+      col3.textContent = listItem.data.url;
+      
+      row.appendChild(col1);
+      row.appendChild(col2);
+      row.appendChild(col3);
+      parentNode.appendChild(row);
+    }
+    
+    function removeAllChildNodes(parent) {
+      while (parent.firstChild) {
+        parent.removeChild(parent.firstChild);
+      }
     }
 
 
