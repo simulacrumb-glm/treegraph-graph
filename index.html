@@ -12,7 +12,7 @@
         background: white;
       }
       #cy {
-        height: 50%;
+        height: 55%;
         width: 100%;
         position: absolute;
         top: 5%;
@@ -20,11 +20,9 @@
         background: white;
       }
       #list {
-        height: 45%;
         width: 100%;
         position: absolute;
         top: 60%;
-        bottom: 100%;
         background: lightgrey;
       }
     </style>
@@ -1961,7 +1959,6 @@
       //console.log(edges.length + " at " + new Date().getTime())
 
       if (option !== 'all') {
-      
         if (option === 'coin') {
           //get list of nodes by type
           filterList = nodes.filter(function(e) {
@@ -1995,6 +1992,7 @@
       data.edges = edges
       cy.json({ elements: data });
       cy.layout(fcoseOptions).run()
+
       
       var parentNode = document.getElementById('list')
       removeAllChildNodes(parentNode)
@@ -2089,7 +2087,7 @@
           'text-opacity': 0
         }),
 
-      elements: addData(),
+      elements: filterData('all'),
 
 
       ready: function() {
