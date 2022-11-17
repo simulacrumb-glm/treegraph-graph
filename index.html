@@ -5,12 +5,14 @@
       body {
         font: 14px helvetica neue, helvetica, arial, sans-serif;
       }
+
       #myBtnContainer {
         height: 5%;
         width: 100%;
         position: absolute;
         background: white;
       }
+
       #cy {
         height: 60%;
         width: 100%;
@@ -19,12 +21,14 @@
         bottom: 65%;
         background: white;
       }
+
       #list {
         width: 100%;
         position: absolute;
         top: 65%;
         background: lightgrey;
       }
+
     </style>
   </head>
 
@@ -32,6 +36,7 @@
     <div id="cy"></div>
     <div id="myBtnContainer">
       <button class="btn active" onclick="filterData('all')">Show all</button>
+      <button class="btn" onclick="filterData('dapp')">Dapps</button>
       <button class="btn" onclick="filterData('bridge')">Bridges</button>
       <button class="btn" onclick="filterData('cex')">Centralized Exchanges</button>
       <button class="btn" onclick="filterData('wallet')">Wallets</button>
@@ -192,7 +197,7 @@
       }, {
         "id": "53c43d9e-deb1-42e5-b99b-888822f412bd",
         "type": "dapp",
-        "name": "Flux",
+        "name": "Zero One",
         "url": "https://flux.01.finance/",
         "address": null
       }, {
@@ -200,6 +205,42 @@
         "type": "dapp",
         "name": "Turbo Starter",
         "url": "https://turbostarter.io/",
+        "address": null
+      }, {
+        "id": "4b352042-7960-4f05-9b5c-53335002f104",
+        "type": "dapp",
+        "name": "TraderbotX",
+        "url": "https://traderbotx.github.io/",
+        "address": null
+      }, {
+        "id": "d404c128-f2dc-47ed-aa59-ec9856aa2c7d",
+        "type": "dapp",
+        "name": "CNS Domains",
+        "url": "https://cnsdomains.xyz/",
+        "address": null
+      }, {
+        "id": "a591cf97-8f4a-4d51-9454-ab06c166a386",
+        "type": "dapp",
+        "name": "Nucleon",
+        "url": "https://www.nucleon.space/",
+        "address": null
+      }, {
+        "id": "b564d098-21ec-48b9-a46b-638a1f3a50a9",
+        "type": "dapp",
+        "name": "Goledo Finance",
+        "url": "https://goledo-1.gitbook.io/goledo/",
+        "address": null
+      }, {
+        "id": "e3e0c626-3434-4f20-ab3e-1da11d0ae374",
+        "type": "dapp",
+        "name": "Lil Minter",
+        "url": "https://www.lilminter.com/",
+        "address": null
+      }, {
+        "id": "4dab7d19-4e85-4931-94d3-413be9f692a1",
+        "type": "dapp",
+        "name": "Triangle DAO",
+        "url": "https://www.triangledao.finance/",
         "address": null
       }, {
         "id": "9712aa7b-d96f-4bb1-b3fb-a7f058604479",
@@ -326,6 +367,18 @@
         "type": "wallet",
         "name": "Math Wallet",
         "url": "https://mathwallet.org/",
+        "address": null
+      }, {
+        "id": "c905d857-e015-4994-8847-e7dd5a1ec135",
+        "type": "wallet",
+        "name": "Anyweb",
+        "url": "https://www.anyweb.cc/",
+        "address": null
+      }, {
+        "id": "7cf8e837-c02c-49c2-88c0-24dbdd7fb31f",
+        "type": "wallet",
+        "name": "OneKey Wallet",
+        "url": "https://onekey.so/",
         "address": null
       }, {
         "id": "3e193e28-b9e1-456e-849f-ffd982a68e1b",
@@ -1778,8 +1831,179 @@
         "source": "74061694-e079-4752-ae73-87a07198e25b",
         "dest": "51a037d9-0c69-45e2-9399-895143ecaec7",
         "predicate": "has_transactor"
+      }, {
+        "source": "4b352042-7960-4f05-9b5c-53335002f104",
+        "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "predicate": "transacts_on"
+      }, {
+        "source": "d404c128-f2dc-47ed-aa59-ec9856aa2c7d",
+        "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "predicate": "transacts_on"
+      }, {
+        "source": "a591cf97-8f4a-4d51-9454-ab06c166a386",
+        "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "predicate": "transacts_on"
+      }, {
+        "source": "b564d098-21ec-48b9-a46b-638a1f3a50a9",
+        "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "predicate": "transacts_on"
+      }, {
+        "source": "e3e0c626-3434-4f20-ab3e-1da11d0ae374",
+        "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "predicate": "transacts_on"
+      }, {
+        "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "dest": "4b352042-7960-4f05-9b5c-53335002f104",
+        "predicate": "has_transactor"
+      }, {
+        "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "dest": "d404c128-f2dc-47ed-aa59-ec9856aa2c7d",
+        "predicate": "has_transactor"
+      }, {
+        "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "dest": "a591cf97-8f4a-4d51-9454-ab06c166a386",
+        "predicate": "has_transactor"
+      }, {
+        "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "dest": "b564d098-21ec-48b9-a46b-638a1f3a50a9",
+        "predicate": "has_transactor"
+      }, {
+        "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "dest": "e3e0c626-3434-4f20-ab3e-1da11d0ae374",
+        "predicate": "has_transactor"
+      }, {
+        "source": "53c43d9e-deb1-42e5-b99b-888822f412bd",
+        "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+        "predicate": "transacts_on"
+      }, {
+        "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+        "dest": "53c43d9e-deb1-42e5-b99b-888822f412bd",
+        "predicate": "has_transactor"
+      }, {
+        "source": "4dab7d19-4e85-4931-94d3-413be9f692a1",
+        "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "predicate": "transacts_on"
+      }, {
+        "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "dest": "4dab7d19-4e85-4931-94d3-413be9f692a1",
+        "predicate": "has_transactor"
+      }, {
+        "source": "4dab7d19-4e85-4931-94d3-413be9f692a1",
+        "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "predicate": "transacts_on"
+      }, {
+        "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "dest": "4dab7d19-4e85-4931-94d3-413be9f692a1",
+        "predicate": "has_transactor"
+      }, {
+        "source": "7cf8e837-c02c-49c2-88c0-24dbdd7fb31f",
+        "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "predicate": "signs_on"
+      }, {
+        "source": "7cf8e837-c02c-49c2-88c0-24dbdd7fb31f",
+        "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "predicate": "signs_on"
+      }, {
+        "source": "7cf8e837-c02c-49c2-88c0-24dbdd7fb31f",
+        "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "predicate": "signs_on"
+      }, {
+        "source": "7cf8e837-c02c-49c2-88c0-24dbdd7fb31f",
+        "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+        "predicate": "signs_on"
+      }, {
+        "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "dest": "7cf8e837-c02c-49c2-88c0-24dbdd7fb31f",
+        "predicate": "has_signer"
+      }, {
+        "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "dest": "7cf8e837-c02c-49c2-88c0-24dbdd7fb31f",
+        "predicate": "has_signer"
+      }, {
+        "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "dest": "7cf8e837-c02c-49c2-88c0-24dbdd7fb31f",
+        "predicate": "has_signer"
+      }, {
+        "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+        "dest": "7cf8e837-c02c-49c2-88c0-24dbdd7fb31f",
+        "predicate": "has_signer"
+      }, {
+        "source": "e3f3b37d-e42b-4070-bfbb-6892f3967fa7",
+        "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "predicate": "signs_on"
+      }, {
+        "source": "b33a91e5-0452-4217-95f1-c5898586ce1d",
+        "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "predicate": "signs_on"
+      }, {
+        "source": "8d63f259-518b-4598-ae10-a8d197720048",
+        "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "predicate": "signs_on"
+      }, {
+        "source": "24f354fb-b8ce-48af-9b13-aa674a337185",
+        "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "predicate": "signs_on"
+      }, {
+        "source": "63d98df3-4e63-4ba4-9e69-36f7d1db831c",
+        "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "predicate": "signs_on"
+      }, {
+        "source": "f6cab06c-9f52-454b-a68e-7538cd0a3324",
+        "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "predicate": "signs_on"
+      }, {
+        "source": "8d792dae-41df-4571-8099-010555ab1294",
+        "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "predicate": "signs_on"
+      }, {
+        "source": "0d08ad95-4bcb-4589-b8d7-fb0a1dfaead8",
+        "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "predicate": "signs_on"
+      }, {
+        "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "dest": "e3f3b37d-e42b-4070-bfbb-6892f3967fa7",
+        "predicate": "has_signer"
+      }, {
+        "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "dest": "b33a91e5-0452-4217-95f1-c5898586ce1d",
+        "predicate": "has_signer"
+      }, {
+        "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "dest": "8d63f259-518b-4598-ae10-a8d197720048",
+        "predicate": "has_signer"
+      }, {
+        "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "dest": "24f354fb-b8ce-48af-9b13-aa674a337185",
+        "predicate": "has_signer"
+      }, {
+        "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "dest": "63d98df3-4e63-4ba4-9e69-36f7d1db831c",
+        "predicate": "has_signer"
+      }, {
+        "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "dest": "f6cab06c-9f52-454b-a68e-7538cd0a3324",
+        "predicate": "has_signer"
+      }, {
+        "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "dest": "8d792dae-41df-4571-8099-010555ab1294",
+        "predicate": "has_signer"
+      }, {
+        "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "dest": "0d08ad95-4bcb-4589-b8d7-fb0a1dfaead8",
+        "predicate": "has_signer"
+      }, {
+        "source": "c905d857-e015-4994-8847-e7dd5a1ec135",
+        "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "predicate": "signs_on"
+      }, {
+        "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "dest": "c905d857-e015-4994-8847-e7dd5a1ec135",
+        "predicate": "has_signer"
       }]
     }
+
+    ;
+
 
 
 
@@ -1914,8 +2138,8 @@
       var data = {}
       data.nodes = nodes
       data.edges = edges
-      
-      return 
+
+      return
     }
 
     async function filterData(option) {
@@ -1964,8 +2188,8 @@
           filterList = nodes.filter(function(e) {
             return (e.data.type === 'coin' || e.data.type === 'token')
           });
-        }else{
-         //get list of nodes by type
+        } else {
+          //get list of nodes by type
           filterList = nodes.filter(function(e) {
             return e.data.type === option
           });
@@ -1986,45 +2210,47 @@
           return inclusion.length > 0
         });
       }
-      
-      data={}
+
+      data = {}
       data.nodes = nodes
       data.edges = edges
-      cy.json({ elements: data });
+      cy.json({
+        elements: data
+      });
       cy.layout(fcoseOptions).run()
 
-      
+
       var parentNode = document.getElementById('list')
       removeAllChildNodes(parentNode)
-      
-      for (x=0;x<nodes.length;x++){
+
+      for (x = 0; x < nodes.length; x++) {
         var listItem = nodes[x];
-        
+
         addChildListRow(parentNode, listItem);
       }
-      
+
       return data
     }
-    
-    
-    function addChildListRow(parentNode,listItem){
+
+
+    function addChildListRow(parentNode, listItem) {
       var row = document.createElement("tr");
-      
+
       var col1 = document.createElement("td");
       col1.textContent = listItem.data.name;
-      
+
       var col2 = document.createElement("td");
       col2.textContent = listItem.data.type;
-      
+
       var col3 = document.createElement("td");
       col3.textContent = listItem.data.url;
-      
+
       row.appendChild(col1);
       row.appendChild(col2);
       row.appendChild(col3);
       parentNode.appendChild(row);
     }
-    
+
     function removeAllChildNodes(parent) {
       while (parent.firstChild) {
         parent.removeChild(parent.firstChild);
