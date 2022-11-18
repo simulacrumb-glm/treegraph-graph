@@ -22,17 +22,19 @@ eb6cf13a-a594-490d-9df4-93447f6dd977|network|{"name":"CLV Parachain","url":"http
 593257e9-60a0-4531-8cdc-2c61732c62b6|network|{"name":"Evmos","url":"https://www.mintscan.io/evmos","features":[],"icon":""}
 2932ce19-1a50-4ead-92f6-d61bde186a4f|network|{"name":"Arweave","url":"https://viewblock.io/arweave","features":[],"icon":""}
 74061694-e079-4752-ae73-87a07198e25b|network|{"name":"Moonbeam","url":"https://moonscan.io/","features":[],"icon":""}
-9e24ae87-db29-4e95-bfaf-93a40af6e60c|dapp|{"name":"Swappi","url":"https://swappi.io/","features":["dex","farms"],"icon":""}
-53c43d9e-deb1-42e5-b99b-888822f412bd|dapp|{"name":"Zero One","url":"https://flux.01.finance/","features":["lending","farms"],"icon":""}
-955c3a79-6a0b-4460-897c-fe83d0f0dc82|dapp|{"name":"Turbo Starter","url":"https://turbostarter.io/","features":["launchpad"],"icon":""}
-4b352042-7960-4f05-9b5c-53335002f104|dapp|{"name":"TraderbotX","url":"https://traderbotx.github.io/","features":["launchpad"],"icon":""}
-d404c128-f2dc-47ed-aa59-ec9856aa2c7d|dapp|{"name":"CNS Domains","url":"https://cnsdomains.xyz/","features":["launchpad"],"icon":""}
-a591cf97-8f4a-4d51-9454-ab06c166a386|dapp|{"name":"Nucleon","url":"https://www.nucleon.space/","features":["launchpad"],"icon":""}
-b564d098-21ec-48b9-a46b-638a1f3a50a9|dapp|{"name":"Goledo Finance","url":"https://goledo-1.gitbook.io/goledo/","features":["launchpad"],"icon":""}
-e3e0c626-3434-4f20-ab3e-1da11d0ae374|dapp|{"name":"Lil Minter","url":"https://www.lilminter.com/","features":["launchpad"],"icon":""}
-4dab7d19-4e85-4931-94d3-413be9f692a1|dapp|{"name":"Triangle DAO","url":"https://www.triangledao.finance/","features":["launchpad"],"icon":""}
-9712aa7b-d96f-4bb1-b3fb-a7f058604479|bridge|{"name":"BoringDAO","url":"https://www.boringdao.com/","features":["bridge"],"icon":""}
-06b2d31a-5508-49e3-816a-99a7730c1a62|bridge|{"name":"Meson","url":"https://meson.fi/","features":["bridge"],"icon":""}
+9e24ae87-db29-4e95-bfaf-93a40af6e60c|dapp|{"name":"Swappi","url":"https://swappi.io/","features":[],"icon":""}
+53c43d9e-deb1-42e5-b99b-888822f412bd|dapp|{"name":"Zero One","url":"https://flux.01.finance/","features":[],"icon":""}
+955c3a79-6a0b-4460-897c-fe83d0f0dc82|dapp|{"name":"Turbo Starter","url":"https://turbostarter.io/","features":[],"icon":""}
+4b352042-7960-4f05-9b5c-53335002f104|dapp|{"name":"TraderbotX","url":"https://traderbotx.github.io/","features":[],"icon":""}
+d404c128-f2dc-47ed-aa59-ec9856aa2c7d|dapp|{"name":"CNS Domains","url":"https://cnsdomains.xyz/","features":[],"icon":""}
+a591cf97-8f4a-4d51-9454-ab06c166a386|dapp|{"name":"Nucleon","url":"https://www.nucleon.space/","features":[],"icon":""}
+b564d098-21ec-48b9-a46b-638a1f3a50a9|dapp|{"name":"Goledo Finance","url":"https://goledo-1.gitbook.io/goledo/","features":[],"icon":""}
+e3e0c626-3434-4f20-ab3e-1da11d0ae374|dapp|{"name":"Lil Minter","url":"https://www.lilminter.com/","features":[],"icon":""}
+4dab7d19-4e85-4931-94d3-413be9f692a1|dapp|{"name":"Triangle DAO","url":"https://www.triangledao.finance/","features":[],"icon":""}
+a9127213-51ec-4198-bd4f-41485a4ef68e|dapp|{"name":"POS Validators","url":"https://www.conflux-pos-validators.com/","features":[],"icon":""}
+75128fd5-c4a5-4538-9cc6-df90c7631f47|dapp|{"name":"Conflux Faucets","url":"https://conflux-faucets.com/","features":[],"icon":""}
+9712aa7b-d96f-4bb1-b3fb-a7f058604479|bridge|{"name":"BoringDAO","url":"https://www.boringdao.com/","features":[],"icon":""}
+06b2d31a-5508-49e3-816a-99a7730c1a62|bridge|{"name":"Meson","url":"https://meson.fi/","features":[],"icon":""}
 28676732-6705-47a4-964a-e41bf886e38f|bridge|{"name":"Multichain","url":"https://multichain.org/","features":["bridge"],"icon":""}
 c0cdbcc4-092a-4cdd-b1b0-99ebf743dfb1|bridge|{"name":"cBridge","url":"https://cbridge.celer.network/","features":["bridge"],"icon":""}
 5e0fd9f4-0d24-4155-936e-e8e51c249904|bridge|{"name":"Confluxhub Cross-Space Bridge","url":"https://confluxhub.io/espace-bridge/cross-space","features":["bridge"],"icon":""}

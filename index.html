@@ -243,6 +243,18 @@
         "url": "https://www.triangledao.finance/",
         "address": null
       }, {
+        "id": "a9127213-51ec-4198-bd4f-41485a4ef68e",
+        "type": "dapp",
+        "name": "POS Validators",
+        "url": "https://www.conflux-pos-validators.com/",
+        "address": null
+      }, {
+        "id": "75128fd5-c4a5-4538-9cc6-df90c7631f47",
+        "type": "dapp",
+        "name": "Conflux Faucets",
+        "url": "https://conflux-faucets.com/",
+        "address": null
+      }, {
         "id": "9712aa7b-d96f-4bb1-b3fb-a7f058604479",
         "type": "bridge",
         "name": "BoringDAO",
@@ -1998,6 +2010,38 @@
       }, {
         "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
         "dest": "c905d857-e015-4994-8847-e7dd5a1ec135",
+        "predicate": "has_signer"
+      }, {
+        "source": "75128fd5-c4a5-4538-9cc6-df90c7631f47",
+        "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "predicate": "signs_on"
+      }, {
+        "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "dest": "75128fd5-c4a5-4538-9cc6-df90c7631f47",
+        "predicate": "has_signer"
+      }, {
+        "source": "75128fd5-c4a5-4538-9cc6-df90c7631f47",
+        "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "predicate": "signs_on"
+      }, {
+        "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "dest": "75128fd5-c4a5-4538-9cc6-df90c7631f47",
+        "predicate": "has_signer"
+      }, {
+        "source": "a9127213-51ec-4198-bd4f-41485a4ef68e",
+        "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "predicate": "signs_on"
+      }, {
+        "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "dest": "a9127213-51ec-4198-bd4f-41485a4ef68e",
+        "predicate": "has_signer"
+      }, {
+        "source": "a9127213-51ec-4198-bd4f-41485a4ef68e",
+        "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "predicate": "signs_on"
+      }, {
+        "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "dest": "a9127213-51ec-4198-bd4f-41485a4ef68e",
         "predicate": "has_signer"
       }]
     }
