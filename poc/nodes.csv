@@ -45,6 +45,8 @@ e3e0c626-3434-4f20-ab3e-1da11d0ae374|dapp|{"name":"Lil Minter","url":"https://ww
 4dab7d19-4e85-4931-94d3-413be9f692a1|dapp|{"name":"Triangle DAO","url":"https://www.triangledao.finance/","features":[],"icon":""}
 a9127213-51ec-4198-bd4f-41485a4ef68e|dapp|{"name":"POS Validators","url":"https://www.conflux-pos-validators.com/","features":[],"icon":""}
 75128fd5-c4a5-4538-9cc6-df90c7631f47|dapp|{"name":"Conflux Faucets","url":"https://conflux-faucets.com/","features":[],"icon":""}
+812ebb9e-7cc9-4d77-91bf-801781406ad0|dapp|{"name":"SimpleSwap","url":"https://simpleswap.io/","features":[],"icon":""}
+2264c41c-075a-4be0-b543-d49c397eaec5|dapp|{"name":"TrustSwap","url":"https://trustswap.com/","features":[],"icon":""}
 7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|network|{"name":"Conflux eSpace","url":"https://evm.confluxscan.io/","features":[],"icon":""}
 4967a41b-13e6-4c0e-adae-331ef39b6183|network|{"name":"Conflux Core space","url":"https://confluxscan.io/","features":[],"icon":""}
 4d8fafd5-7938-4f80-9e18-59e5a92059a2|network|{"name":"Ethereum Network","url":"https://etherscan.io/","features":[],"icon":""}
@@ -103,3 +105,5 @@ f6cab06c-9f52-454b-a68e-7538cd0a3324|wallet|{"name":"Coin98","url":"https://coin
 8d792dae-41df-4571-8099-010555ab1294|wallet|{"name":"Math Wallet","url":"https://mathwallet.org/","features":[],"icon":""}
 c905d857-e015-4994-8847-e7dd5a1ec135|wallet|{"name":"Anyweb","url":"https://www.anyweb.cc/","features":[],"icon":""}
 7cf8e837-c02c-49c2-88c0-24dbdd7fb31f|wallet|{"name":"OneKey Wallet","url":"https://onekey.so/","features":[],"icon":""}
+74d48596-207c-40a2-8d03-d88406be1bc6|wallet|{"name":"Cobo Wallet","url":"https://www.cobo.com/","features":[],"icon":""}
+28806184-55bd-4df7-928d-0cf61419ef00|wallet|{"name":"Hashkey","url":"https://me.hashkey.com/en","features":[],"icon":""}
