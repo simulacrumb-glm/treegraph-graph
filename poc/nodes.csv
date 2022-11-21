@@ -86,13 +86,19 @@ aeb76669-9919-4daf-8b43-10e857411c2c|token|{"name":"eSpace Wrapped Conflux","sym
 fd5ecd60-81eb-4f8f-8113-436e658c2137|token|{"name":"Core-Space Wrapped BTC","symbol":"cWBTC","address":"cfx:acg7z3y6x8pzem2v6pnyxuysn78pvgu3jjhzaatpy5","url":"https://confluxscan.io/address/cfx:acg7z3y6x8pzem2v6pnyxuysn78pvgu3jjhzaatpy5","features":[],"icon":""}
 48e9050a-310b-4d3c-bb1d-79fcea91afaa|token|{"name":"Ethereum Wrapped BTC","symbol":"wBTC","address":"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599","url":"https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599","features":[],"icon":""}
 6319cd12-36ba-40dc-bc3c-3f5db0f2c8b5|token|{"name":"eSpace BNB","symbol":"BNB","address":"0x94bd7a37d2ce24cc597e158facaa8d601083ffec","url":"https://evm.confluxscan.io/address/0x94bd7a37d2ce24cc597e158facaa8d601083ffec","features":[],"icon":""}
-08793ba0-bd60-40fd-b259-9c053c62cd81|token|{"name":"Core-Space conflux Binance Coin","symbol":"cBNB","address":"cfx:acczy0zs2fu03pnx0w1u19pkprsm6r50spkz7eg4c3","url":"https://confluxscan.io/token/cfx:acczy0zs2fu03pnx0w1u19pkprsm6r50spkz7eg4c3","features":[],"icon":""}
+08793ba0-bd60-40fd-b259-9c053c62cd81|token|{"name":"Core-Space conflux Binance Coin","symbol":"cBNB","address":"cfx:acczy0zs2fu03pnx0w1u19pkprsm6r50spkz7eg4c3","url":"https://confluxscan.io/address/cfx:acczy0zs2fu03pnx0w1u19pkprsm6r50spkz7eg4c3","features":[],"icon":""}
 02905195-86d1-4e96-8914-3fa442eaac6b|token|{"name":"eSpace Zero One","symbol":"ZO","address":"0x8b47a66c0dc369dcb66a206f3c6794df61aaf641","url":"https://evm.confluxscan.io/address/0x8b47a66c0dc369dcb66a206f3c6794df61aaf641","features":[],"icon":""}
 05926336-b0e7-42cf-ab99-7594b62c2aab|token|{"name":"Core-Space Zero One","symbol":"cZO","address":"cfx:acbhzfeg0nc7g2538wkv57k6b2f8cx5ryuj0xecjnh","url":"https://confluxscan.io/address/cfx:acbhzfeg0nc7g2538wkv57k6b2f8cx5ryuj0xecjnh ","features":[],"icon":""}
+6ee867cb-ac82-40d1-85cb-c3c1849ccf7f|token|{"name":"ethereum USDT","symbol":"USDT","address":"0xdac17f958d2ee523a2206206994597c13d831ec7","url":"https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7","features":[],"icon":""}
+c4805f66-a0a6-4be4-9b8a-8e433f312985|token|{"name":"ethereum USDC","symbol":"USDC","address":"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48","url":"https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48","features":[],"icon":""}
+e2ab6852-9f41-4ee4-8b50-4b94c6159a66|token|{"name":"binance USDT","symbol":"BSC-USD","address":"0x55d398326f99059ff775485246999027b3197955","url":"https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955","features":[],"icon":""}
+405952d9-df63-4d1b-87de-bad63f6c89a0|token|{"name":"binance USDC","symbol":"USDC","address":"0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d","url":"https://bscscan.com/address/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d","features":[],"icon":""}
 308a0f45-aeb8-493d-8166-7317cc7a65e0|token_group|{"name":"CFX Token Group","symbol":"CFX","features":[],"icon":""}
 292fdd1c-a0f5-4029-bc36-0e3b23e0c7e5|token_group|{"name":"ETH Token Group","symbol":"ETH","features":[],"icon":""}
 9f067efd-7a2c-47b5-94fa-148aaa8aa367|token_group|{"name":"BNB Token Group","symbol":"BNB","features":[],"icon":""}
 d95bb2e2-9a56-477c-895d-dc4c47e5e5d1|token_group|{"name":"BTC Token Group","symbol":"BTC","features":[],"icon":""}
+46dffb7d-c752-427c-aa29-4579234999bd|token_group|{"name":"USDC Token Group","symbol":"USDC","features":[],"icon":""}
+d634d434-5884-498f-9dae-17040aac01a7|token_group|{"name":"USDT Token Group","symbol":"USDC","features":[],"icon":""}
 b8bd713a-a156-4d94-8096-e434c5cfaad7|wallet|{"name":"Fluent Wallet","url":"https://fluentwallet.com/","features":[],"icon":""}
 e3f3b37d-e42b-4070-bfbb-6892f3967fa7|wallet|{"name":"MetaMask","url":"https://metamask.io/","features":[],"icon":""}
 b33a91e5-0452-4217-95f1-c5898586ce1d|wallet|{"name":"Token Pocket","url":"https://www.tokenpocket.pro/","features":[],"icon":""}

@@ -576,7 +576,7 @@
         "id": "08793ba0-bd60-40fd-b259-9c053c62cd81",
         "type": "token",
         "name": "Core-Space conflux Binance Coin",
-        "url": "https://confluxscan.io/token/cfx:acczy0zs2fu03pnx0w1u19pkprsm6r50spkz7eg4c3",
+        "url": "https://confluxscan.io/address/cfx:acczy0zs2fu03pnx0w1u19pkprsm6r50spkz7eg4c3",
         "address": "cfx:acczy0zs2fu03pnx0w1u19pkprsm6r50spkz7eg4c3"
       }, {
         "id": "02905195-86d1-4e96-8914-3fa442eaac6b",
@@ -590,6 +590,30 @@
         "name": "Core-Space Zero One",
         "url": "https://confluxscan.io/address/cfx:acbhzfeg0nc7g2538wkv57k6b2f8cx5ryuj0xecjnh ",
         "address": "cfx:acbhzfeg0nc7g2538wkv57k6b2f8cx5ryuj0xecjnh"
+      }, {
+        "id": "6ee867cb-ac82-40d1-85cb-c3c1849ccf7f",
+        "type": "token",
+        "name": "ethereum USDT",
+        "url": "https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+      }, {
+        "id": "c4805f66-a0a6-4be4-9b8a-8e433f312985",
+        "type": "token",
+        "name": "ethereum USDC",
+        "url": "https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+      }, {
+        "id": "e2ab6852-9f41-4ee4-8b50-4b94c6159a66",
+        "type": "token",
+        "name": "binance USDT",
+        "url": "https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955",
+        "address": "0x55d398326f99059ff775485246999027b3197955"
+      }, {
+        "id": "405952d9-df63-4d1b-87de-bad63f6c89a0",
+        "type": "token",
+        "name": "binance USDC",
+        "url": "https://bscscan.com/address/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
       }, {
         "id": "308a0f45-aeb8-493d-8166-7317cc7a65e0",
         "type": "token_group",
@@ -612,6 +636,18 @@
         "id": "d95bb2e2-9a56-477c-895d-dc4c47e5e5d1",
         "type": "token_group",
         "name": "BTC Token Group",
+        "url": null,
+        "address": null
+      }, {
+        "id": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "type": "token_group",
+        "name": "USDC Token Group",
+        "url": null,
+        "address": null
+      }, {
+        "id": "d634d434-5884-498f-9dae-17040aac01a7",
+        "type": "token_group",
+        "name": "USDT Token Group",
         "url": null,
         "address": null
       }, {
@@ -2099,11 +2135,200 @@
         "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
         "dest": "28806184-55bd-4df7-928d-0cf61419ef00",
         "predicate": "has_signer"
+      }, {
+        "source": "4804682c-0935-43f6-982f-badb9caad864",
+        "dest": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "predicate": "is_member_of"
+      }, {
+        "source": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "dest": "4804682c-0935-43f6-982f-badb9caad864",
+        "predicate": "has_member"
+      }, {
+        "source": "25f43b66-72d3-457b-b324-8617ba2182d3",
+        "dest": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "predicate": "is_member_of"
+      }, {
+        "source": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "dest": "25f43b66-72d3-457b-b324-8617ba2182d3",
+        "predicate": "has_member"
+      }, {
+        "source": "87f3a897-c1bb-49fc-9a70-d6c710402929",
+        "dest": "d634d434-5884-498f-9dae-17040aac01a7",
+        "predicate": "is_member_of"
+      }, {
+        "source": "d634d434-5884-498f-9dae-17040aac01a7",
+        "dest": "87f3a897-c1bb-49fc-9a70-d6c710402929",
+        "predicate": "has_member"
+      }, {
+        "source": "8532330d-5335-49e1-84c0-394b9e519a62",
+        "dest": "d634d434-5884-498f-9dae-17040aac01a7",
+        "predicate": "is_member_of"
+      }, {
+        "source": "d634d434-5884-498f-9dae-17040aac01a7",
+        "dest": "8532330d-5335-49e1-84c0-394b9e519a62",
+        "predicate": "has_member"
+      }, {
+        "source": "6ee867cb-ac82-40d1-85cb-c3c1849ccf7f",
+        "dest": "d634d434-5884-498f-9dae-17040aac01a7",
+        "predicate": "is_member_of"
+      }, {
+        "source": "d634d434-5884-498f-9dae-17040aac01a7",
+        "dest": "6ee867cb-ac82-40d1-85cb-c3c1849ccf7f",
+        "predicate": "has_member"
+      }, {
+        "source": "c4805f66-a0a6-4be4-9b8a-8e433f312985",
+        "dest": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "predicate": "is_member_of"
+      }, {
+        "source": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "dest": "c4805f66-a0a6-4be4-9b8a-8e433f312985",
+        "predicate": "has_member"
+      }, {
+        "source": "e2ab6852-9f41-4ee4-8b50-4b94c6159a66",
+        "dest": "d634d434-5884-498f-9dae-17040aac01a7",
+        "predicate": "is_member_of"
+      }, {
+        "source": "d634d434-5884-498f-9dae-17040aac01a7",
+        "dest": "e2ab6852-9f41-4ee4-8b50-4b94c6159a66",
+        "predicate": "has_member"
+      }, {
+        "source": "405952d9-df63-4d1b-87de-bad63f6c89a0",
+        "dest": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "predicate": "is_member_of"
+      }, {
+        "source": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "dest": "405952d9-df63-4d1b-87de-bad63f6c89a0",
+        "predicate": "has_member"
+      }, {
+        "source": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "predicate": "member_listed_on"
+      }, {
+        "source": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "predicate": "member_listed_on"
+      }, {
+        "source": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "predicate": "member_listed_on"
+      }, {
+        "source": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+        "predicate": "member_listed_on"
+      }, {
+        "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "dest": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "predicate": "has_listed_member_of"
+      }, {
+        "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "dest": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "predicate": "has_listed_member_of"
+      }, {
+        "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "dest": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "predicate": "has_listed_member_of"
+      }, {
+        "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+        "dest": "46dffb7d-c752-427c-aa29-4579234999bd",
+        "predicate": "has_listed_member_of"
+      }, {
+        "source": "d634d434-5884-498f-9dae-17040aac01a7",
+        "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "predicate": "member_listed_on"
+      }, {
+        "source": "d634d434-5884-498f-9dae-17040aac01a7",
+        "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "predicate": "member_listed_on"
+      }, {
+        "source": "d634d434-5884-498f-9dae-17040aac01a7",
+        "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "predicate": "member_listed_on"
+      }, {
+        "source": "d634d434-5884-498f-9dae-17040aac01a7",
+        "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+        "predicate": "member_listed_on"
+      }, {
+        "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "dest": "d634d434-5884-498f-9dae-17040aac01a7",
+        "predicate": "has_listed_member_of"
+      }, {
+        "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "dest": "d634d434-5884-498f-9dae-17040aac01a7",
+        "predicate": "has_listed_member_of"
+      }, {
+        "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "dest": "d634d434-5884-498f-9dae-17040aac01a7",
+        "predicate": "has_listed_member_of"
+      }, {
+        "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+        "dest": "d634d434-5884-498f-9dae-17040aac01a7",
+        "predicate": "has_listed_member_of"
+      }, {
+        "source": "6ee867cb-ac82-40d1-85cb-c3c1849ccf7f",
+        "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "predicate": "contract_deployed_on"
+      }, {
+        "source": "c4805f66-a0a6-4be4-9b8a-8e433f312985",
+        "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "predicate": "contract_deployed_on"
+      }, {
+        "source": "e2ab6852-9f41-4ee4-8b50-4b94c6159a66",
+        "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+        "predicate": "contract_deployed_on"
+      }, {
+        "source": "405952d9-df63-4d1b-87de-bad63f6c89a0",
+        "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+        "predicate": "contract_deployed_on"
+      }, {
+        "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "dest": "6ee867cb-ac82-40d1-85cb-c3c1849ccf7f",
+        "predicate": "has_contract"
+      }, {
+        "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+        "dest": "c4805f66-a0a6-4be4-9b8a-8e433f312985",
+        "predicate": "has_contract"
+      }, {
+        "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+        "dest": "e2ab6852-9f41-4ee4-8b50-4b94c6159a66",
+        "predicate": "has_contract"
+      }, {
+        "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+        "dest": "405952d9-df63-4d1b-87de-bad63f6c89a0",
+        "predicate": "has_contract"
+      }, {
+        "source": "25f43b66-72d3-457b-b324-8617ba2182d3",
+        "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "predicate": "contract_deployed_on"
+      }, {
+        "source": "87f3a897-c1bb-49fc-9a70-d6c710402929",
+        "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "predicate": "contract_deployed_on"
+      }, {
+        "source": "4804682c-0935-43f6-982f-badb9caad864",
+        "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "predicate": "contract_deployed_on"
+      }, {
+        "source": "8532330d-5335-49e1-84c0-394b9e519a62",
+        "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "predicate": "contract_deployed_on"
+      }, {
+        "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "dest": "25f43b66-72d3-457b-b324-8617ba2182d3",
+        "predicate": "has_contract"
+      }, {
+        "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+        "dest": "87f3a897-c1bb-49fc-9a70-d6c710402929",
+        "predicate": "has_contract"
+      }, {
+        "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "dest": "4804682c-0935-43f6-982f-badb9caad864",
+        "predicate": "has_contract"
+      }, {
+        "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+        "dest": "8532330d-5335-49e1-84c0-394b9e519a62",
+        "predicate": "has_contract"
       }]
-    }
-
-
-    ;
+    };
 
 
 
@@ -2164,9 +2389,9 @@
       // For enabling tiling
       tile: true,
       // Represents the amount of the vertical space to put between the zero degree members during the tiling operation(can also be a function)
-      tilingPaddingVertical: 300,
+      tilingPaddingVertical: 100,
       // Represents the amount of the horizontal space to put between the zero degree members during the tiling operation(can also be a function)
-      tilingPaddingHorizontal: 300,
+      tilingPaddingHorizontal: 200,
       // Gravity force (constant)
       gravity: 0.1,
       // Gravity range (constant) for compounds
