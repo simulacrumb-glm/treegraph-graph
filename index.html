@@ -6,14 +6,24 @@
         font: 14px helvetica neue, helvetica, arial, sans-serif;
       }
 
-      #myBtnContainer {
-        height: 10%;
-        top: 0%;
-        bottom: 10%;
+      #header {
+        height: 5%;
         width: 100%;
-        position: absolute;
+        display: table;
         text-align: center;
         background: white;
+      }
+
+      .title {
+        display: table-row;
+      }
+
+      #myBtnContainer {
+        height: 5%;
+        top: 5%;
+        bottom: 10%;
+        text-align: center;
+        vertical-align: bottom;
       }
 
       #cy {
@@ -36,19 +46,24 @@
   </head>
 
   <body>
-    <div id="myBtnContainer">
-      <h2>Conflux Network ("The Tree-Graph")</h2>
-      <p>Labeled Property Graph Visualization of Web3 Entities</p>
-      <p>
-        <button class="btn active" onclick="filterData('all')">Show all</button>
-        <button class="btn" onclick="filterData('dapp')">Dapps</button>
-        <button class="btn" onclick="filterData('bridge')">Bridges</button>
-        <button class="btn" onclick="filterData('cex')">Centralized Exchanges</button>
-        <button class="btn" onclick="filterData('wallet')">Wallets</button>
-        <button class="btn" onclick="filterData('coin')">Coins</button>
-      </p>
+    <div id="header">
+      <div class="title">
+        <p>
+          <b>Conflux Network ("The Tree-Graph")</b>
+        </p>
+      </div>
+      <div class="title">
+        <p>Labeled Property Graph Visualization of Web3 Entities</p>
+      </div>
     </div>
-
+    <div id="myBtnContainer">
+      <button class="btn active" onclick="filterData('all')">Show all</button>
+      <button class="btn" onclick="filterData('dapp')">Dapps</button>
+      <button class="btn" onclick="filterData('bridge')">Bridges</button>
+      <button class="btn" onclick="filterData('cex')">Centralized Exchanges</button>
+      <button class="btn" onclick="filterData('wallet')">Wallets</button>
+      <button class="btn" onclick="filterData('coin')">Coins</button>
+    </div>
     <div id="cy"></div>
     <table id="list"></table>
   </body>
