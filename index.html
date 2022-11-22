@@ -6,19 +6,9 @@
         font: 14px helvetica neue, helvetica, arial, sans-serif;
       }
 
-      #header {
-        height: 5%;
-        top: 0%;
-        bottom: 5%;
-        width: 100%;
-        position: absolute;
-        text-align: center;
-        background: white;
-      }
-      
       #myBtnContainer {
-        height: 5%;
-        top: 5%;
+        height: 10%;
+        top: 0%;
         bottom: 10%;
         width: 100%;
         position: absolute;
@@ -46,19 +36,19 @@
   </head>
 
   <body>
-   <div id="header">
+    <div id="myBtnContainer">
       <h2>Conflux Network ("The Tree-Graph")</h2>
       <p>Labeled Property Graph Visualization of Web3 Entities</p>
+      <p>
+        <button class="btn active" onclick="filterData('all')">Show all</button>
+        <button class="btn" onclick="filterData('dapp')">Dapps</button>
+        <button class="btn" onclick="filterData('bridge')">Bridges</button>
+        <button class="btn" onclick="filterData('cex')">Centralized Exchanges</button>
+        <button class="btn" onclick="filterData('wallet')">Wallets</button>
+        <button class="btn" onclick="filterData('coin')">Coins</button>
+      </p>
     </div>
-    <div id="myBtnContainer">
-      <button class="btn active" onclick="filterData('all')">Show all</button>
-      <button class="btn" onclick="filterData('dapp')">Dapps</button>
-      <button class="btn" onclick="filterData('bridge')">Bridges</button>
-      <button class="btn" onclick="filterData('cex')">Centralized Exchanges</button>
-      <button class="btn" onclick="filterData('wallet')">Wallets</button>
-      <button class="btn" onclick="filterData('coin')">Coins</button>
-    </div>
-   
+
     <div id="cy"></div>
     <table id="list"></table>
   </body>
