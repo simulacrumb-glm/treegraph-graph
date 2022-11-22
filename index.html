@@ -6,26 +6,39 @@
         font: 14px helvetica neue, helvetica, arial, sans-serif;
       }
 
-      #myBtnContainer {
+      #header {
         height: 5%;
+        top: 0%;
+        bottom: 5%;
         width: 100%;
         position: absolute;
+        text-align: center;
+        background: white;
+      }
+      
+      #myBtnContainer {
+        height: 5%;
+        top: 5%;
+        bottom: 10%;
+        width: 100%;
+        position: absolute;
+        text-align: center;
         background: white;
       }
 
       #cy {
-        height: 60%;
+        height: 65%;
         width: 100%;
         position: absolute;
-        top: 5%;
-        bottom: 65%;
+        top: 10%;
+        bottom: 75%;
         background: white;
       }
 
       #list {
         width: 100%;
         position: absolute;
-        top: 65%;
+        top: 75%;
         background: lightgrey;
       }
 
@@ -33,7 +46,10 @@
   </head>
 
   <body>
-    <div id="cy"></div>
+   <div id="header">
+      <h1>Conflux Network ("The Tree Graph")</h1>
+      <h1>Labeled Property Graph Visualization of Web3 Entities</h1>
+    </div>
     <div id="myBtnContainer">
       <button class="btn active" onclick="filterData('all')">Show all</button>
       <button class="btn" onclick="filterData('dapp')">Dapps</button>
@@ -42,6 +58,8 @@
       <button class="btn" onclick="filterData('wallet')">Wallets</button>
       <button class="btn" onclick="filterData('coin')">Coins</button>
     </div>
+   
+    <div id="cy"></div>
     <table id="list"></table>
   </body>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.2.5/cytoscape.js"></script>
