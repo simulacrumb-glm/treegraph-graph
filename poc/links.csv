@@ -397,3 +397,7 @@ ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|405952d9-df63-4d1b-87de-bad63f6c89a0|has_co
 4967a41b-13e6-4c0e-adae-331ef39b6183|87f3a897-c1bb-49fc-9a70-d6c710402929|has_contract
 7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|4804682c-0935-43f6-982f-badb9caad864|has_contract
 7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|8532330d-5335-49e1-84c0-394b9e519a62|has_contract
+dfd5bd22-60ef-4d9c-baea-b422dbcaf553|7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|signs_on
+7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|dfd5bd22-60ef-4d9c-baea-b422dbcaf553|has_signer
+dfd5bd22-60ef-4d9c-baea-b422dbcaf553|4967a41b-13e6-4c0e-adae-331ef39b6183|signs_on
+4967a41b-13e6-4c0e-adae-331ef39b6183|dfd5bd22-60ef-4d9c-baea-b422dbcaf553|has_signer
