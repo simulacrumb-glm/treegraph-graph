@@ -4,7 +4,7 @@ id|type|fields
 28676732-6705-47a4-964a-e41bf886e38f|bridge|{"name":"Multichain","url":"https://multichain.org/","features":["bridge"],"icon":""}
 c0cdbcc4-092a-4cdd-b1b0-99ebf743dfb1|bridge|{"name":"cBridge","url":"https://cbridge.celer.network/","features":["bridge"],"icon":""}
 5e0fd9f4-0d24-4155-936e-e8e51c249904|bridge|{"name":"Confluxhub Cross-Space Bridge","url":"https://confluxhub.io/espace-bridge/cross-space","features":["bridge"],"icon":""}
-024eb4f2-81ed-4a89-84f0-b23f5b67364b|bridge|{"name":"Confluxhub BNB-eSpace Bridge","url":"https://confluxhub.io/espace-bridge/bsc-esapce-cfx","features":[],"icon":""}
+024eb4f2-81ed-4a89-84f0-b23f5b67364b|bridge|{"name":"Confluxhub BNB-eSpace Bridge","url":"https://confluxhub.io/espace-bridge/bsc-espace-cfx","features":[],"icon":""}
 1bd05ed9-6124-416b-bafe-e1d1f7ef53bc|bridge|{"name":"Confluxhub Shuttleflow","url":"https://confluxhub.io/shuttle-flow/","features":[],"icon":""}
 51a037d9-0c69-45e2-9399-895143ecaec7|bridge|{"name":"Everpay","url":"https://everpay.io/","features":[],"icon":""}
 3d518595-b967-4b97-8770-0ce10da1548f|cex|{"name":"KuCoin","url":"https://www.kucoin.com/","features":["cex"],"icon":""}
@@ -104,7 +104,6 @@ b8bd713a-a156-4d94-8096-e434c5cfaad7|wallet|{"name":"Fluent Wallet","url":"https
 e3f3b37d-e42b-4070-bfbb-6892f3967fa7|wallet|{"name":"MetaMask","url":"https://metamask.io/","features":[],"icon":""}
 b33a91e5-0452-4217-95f1-c5898586ce1d|wallet|{"name":"Token Pocket","url":"https://www.tokenpocket.pro/","features":[],"icon":""}
 8d63f259-518b-4598-ae10-a8d197720048|wallet|{"name":"Fox Wallet","url":"https://foxwallet.com/","features":[],"icon":""}
-24f354fb-b8ce-48af-9b13-aa674a337185|wallet|{"name":"Moonswap App","url":"https://moonswap.fi/","features":[],"icon":""}
 63d98df3-4e63-4ba4-9e69-36f7d1db831c|wallet|{"name":"Lead Wallet","url":"https://leadwallet.io/","features":[],"icon":""}
 0d08ad95-4bcb-4589-b8d7-fb0a1dfaead8|wallet|{"name":"Jade Wallet","url":"https://www.jadewallet.io/","features":[],"icon":""}
 f6cab06c-9f52-454b-a68e-7538cd0a3324|wallet|{"name":"Coin98","url":"https://coin98.com/","features":[],"icon":""}
@@ -114,3 +113,12 @@ c905d857-e015-4994-8847-e7dd5a1ec135|wallet|{"name":"Anyweb","url":"https://www.
 7cf8e837-c02c-49c2-88c0-24dbdd7fb31f|wallet|{"name":"OneKey Wallet","url":"https://onekey.so/","features":[],"icon":""}
 74d48596-207c-40a2-8d03-d88406be1bc6|wallet|{"name":"Cobo Wallet","url":"https://www.cobo.com/","features":[],"icon":""}
 28806184-55bd-4df7-928d-0cf61419ef00|wallet|{"name":"Hashkey","url":"https://me.hashkey.com/en","features":[],"icon":""}
+b70fd594-c32f-43b0-90ec-72fb566d83c7|dapp|{"name":"MoonSwap","url":"https://moonswap.io","features":[],"icon":""}
+5eb845b1-a55a-410f-85f1-347b4b09ff06|dapp|{"name":"Galaxy Blitz","url":"https://beta.galaxyblitz.online/","features":["game"],"icon":""}
+94fbd8d7-7e07-450e-916e-e3ac7856179a|dapp|{"name":"Transit Finance","url":"https://www.transit.finance/","features":[],"icon":""}
+83959077-9084-43f6-a94a-69767049f91f|wallet|{"name":"Bitizen","url":"https://bitizen.org/","features":[],"icon":""}
+9e2b4f47-c1db-49df-b103-c26506d5f183|wallet|{"name":"Coinhub","url":"https://www.coinhub.org/","features":[],"icon":""}
+5031a7e0-e7e3-4ad7-b35a-cbf886b4454c|dapp|{"name":"ChainIDE","url":"https://chainide.com/","features":[],"icon":""}
+d985bb4d-571e-4554-9b59-c048b6d2e50a|cex|{"name":"Bitget","url":"https://www.bitget.com/en/","features":[],"icon":""}
+5feaaa62-0410-4660-9090-6bbde343c607|wallet|{"name":"BitKeep","url":"https://bitkeep.com/","features":[],"icon":""}
+3d04734f-8d1b-4f62-a9db-387909c8b13d|cex|{"name":"LBANK","url":"https://www.lbank.com/","features":[],"icon":""}
