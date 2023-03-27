@@ -122,3 +122,10 @@ b70fd594-c32f-43b0-90ec-72fb566d83c7|dapp|{"name":"MoonSwap","url":"https://moon
 d985bb4d-571e-4554-9b59-c048b6d2e50a|cex|{"name":"Bitget","url":"https://www.bitget.com/en/","features":[],"icon":""}
 5feaaa62-0410-4660-9090-6bbde343c607|wallet|{"name":"BitKeep","url":"https://bitkeep.com/","features":[],"icon":""}
 3d04734f-8d1b-4f62-a9db-387909c8b13d|cex|{"name":"LBANK","url":"https://www.lbank.com/","features":[],"icon":""}
+cc2a630c-fef8-4bf1-be9f-639195f3b379|dapp|{"name":"Token Terminal","url":"https://tokenterminal.com/terminal/projects/conflux","features":[],"icon":""}
+18e19830-bcae-4d2d-b8c2-dff72b12fd56|dapp|{"name":"Dex Screener","url":"https://dexscreener.com/conflux","features":[],"icon":""}
+ca965eb7-2040-4153-a862-93d3d0ce1508|dapp|{"name":"DeBank","url":"https://debank.com/","features":[],"icon":""}
+5411429e-4ae4-4ea2-9e7d-f2a54fc6375b|dapp|{"name":"Dmail","url":"https://dmail.ai/","features":[],"icon":""}
+21928cde-ba44-44dd-b8bb-2728169ff3ba|dapp|{"name":"Bitstack","url":"https://bitstack.com/","features":[],"icon":""}
+529f7bc9-41c8-4450-aad8-356507ac6efb|dapp|{"name":"Thirdweb","url":"https://thirdweb.com/","features":[],"icon":""}
+7a811b64-b267-4006-9ce7-39010d331a83|wallet|{"name":"Nabox","url":"https://nabox.io/","features":[],"icon":""}
