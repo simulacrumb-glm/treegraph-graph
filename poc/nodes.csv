@@ -35,7 +35,6 @@ fb45a644-21b0-42ca-a751-5eabcf294b53|cex|{"name":"Hotbit","url":"https://www.hot
 1db9c164-dd6a-4339-95ff-ea69fcb9e890|coin|{"name":"Ethereum Network ETH","symbol":"ETH","address":"native coin","url":"https://etherscan.io/","features":[],"icon":""}
 37d95293-39cf-48b7-a1b3-cd028f90295a|coin|{"name":"Binance Coin","symbol":"BNB","address":"native coin","url":"https://bscscan.com/","features":[],"icon":""}
 9e24ae87-db29-4e95-bfaf-93a40af6e60c|dapp|{"name":"Swappi","url":"https://swappi.io/","features":[],"icon":""}
-53c43d9e-deb1-42e5-b99b-888822f412bd|dapp|{"name":"Zero One","url":"https://flux.01.finance/","features":[],"icon":""}
 955c3a79-6a0b-4460-897c-fe83d0f0dc82|dapp|{"name":"Turbo Starter","url":"https://turbostarter.io/","features":[],"icon":""}
 4b352042-7960-4f05-9b5c-53335002f104|dapp|{"name":"TraderbotX","url":"https://traderbotx.github.io/","features":[],"icon":""}
 d404c128-f2dc-47ed-aa59-ec9856aa2c7d|dapp|{"name":"CNS Domains","url":"https://cnsdomains.xyz/","features":[],"icon":""}
@@ -73,8 +72,6 @@ eb6cf13a-a594-490d-9df4-93447f6dd977|network|{"name":"CLV Parachain","url":"http
 74061694-e079-4752-ae73-87a07198e25b|network|{"name":"Moonbeam","url":"https://moonscan.io/","features":[],"icon":""}
 cb8983d8-5d01-4b4b-8d0b-6703e6d893c1|token|{"name":"KCC CFX","symbol":"CFX","address":"0x4792c1ecb969b036eb51330c63bd27899a13d84e","url":"https://explorer.kcc.io/en/token/0x4792c1ecb969b036eb51330c63bd27899a13d84e","features":[],"icon":""}
 cfe5c5fd-88a6-4128-8756-b7a636733336|token|{"name":"Binance Wrapped CFX","symbol":"bCFX","address":"0x045c4324039dA91c52C55DF5D785385Aab073DcF","url":"https://bscscan.com/address/0x045c4324039dA91c52C55DF5D785385Aab073DcF","features":[],"icon":""}
-8e087a91-6752-407e-8fde-475dd1cd85c0|token|{"name":"eSpace Swappi Token","symbol":"PPI","address":"0x22f41abf77905f50df398f21213290597e7414dd","url":"https://evm.confluxscan.io/address/0x22f41abf77905f50df398f21213290597e7414dd","features":[],"icon":""}
-236355d8-7de5-4746-9df5-3de84947a1cb|token|{"name":"eSpace Multichain","symbol":"MULTI","address":"0x9fb9a33956351cf4fa040f65a13b835a3c8764e3","url":"https://evm.confluxscan.io/address/0x9fb9a33956351cf4fa040f65a13b835a3c8764e3","features":[],"icon":""}
 8532330d-5335-49e1-84c0-394b9e519a62|token|{"name":"eSpace Tether USD","symbol":"USDT","address":"0xfe97E85d13ABD9c1c33384E796F10B73905637cE","url":"https://evm.confluxscan.io/address/0xfe97E85d13ABD9c1c33384E796F10B73905637cE","features":[],"icon":""}
 87f3a897-c1bb-49fc-9a70-d6c710402929|token|{"name":"Core-Space conflux USDT","symbol":"cUSDT","address":"cfx:acf2rcsh8payyxpg6xj7b0ztswwh81ute60tsw35j7","url":"https://confluxscan.io/address/cfx:acf2rcsh8payyxpg6xj7b0ztswwh81ute60tsw35j7","features":[],"icon":""}
 4804682c-0935-43f6-982f-badb9caad864|token|{"name":"eSpace USD Coin","symbol":"USDC","address":"0x6963efed0ab40f6c3d7bda44a05dcf1437c44372","url":"https://evm.confluxscan.io/address/0x6963efed0ab40f6c3d7bda44a05dcf1437c44372","features":[],"icon":""}
@@ -88,8 +85,6 @@ fd5ecd60-81eb-4f8f-8113-436e658c2137|token|{"name":"Core-Space Wrapped BTC","sym
 48e9050a-310b-4d3c-bb1d-79fcea91afaa|token|{"name":"Ethereum Wrapped BTC","symbol":"wBTC","address":"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599","url":"https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599","features":[],"icon":""}
 6319cd12-36ba-40dc-bc3c-3f5db0f2c8b5|token|{"name":"eSpace BNB","symbol":"BNB","address":"0x94bd7a37d2ce24cc597e158facaa8d601083ffec","url":"https://evm.confluxscan.io/address/0x94bd7a37d2ce24cc597e158facaa8d601083ffec","features":[],"icon":""}
 08793ba0-bd60-40fd-b259-9c053c62cd81|token|{"name":"Core-Space conflux Binance Coin","symbol":"cBNB","address":"cfx:acczy0zs2fu03pnx0w1u19pkprsm6r50spkz7eg4c3","url":"https://confluxscan.io/address/cfx:acczy0zs2fu03pnx0w1u19pkprsm6r50spkz7eg4c3","features":[],"icon":""}
-02905195-86d1-4e96-8914-3fa442eaac6b|token|{"name":"eSpace Zero One","symbol":"ZO","address":"0x8b47a66c0dc369dcb66a206f3c6794df61aaf641","url":"https://evm.confluxscan.io/address/0x8b47a66c0dc369dcb66a206f3c6794df61aaf641","features":[],"icon":""}
-05926336-b0e7-42cf-ab99-7594b62c2aab|token|{"name":"Core-Space Zero One","symbol":"cZO","address":"cfx:acbhzfeg0nc7g2538wkv57k6b2f8cx5ryuj0xecjnh","url":"https://confluxscan.io/address/cfx:acbhzfeg0nc7g2538wkv57k6b2f8cx5ryuj0xecjnh ","features":[],"icon":""}
 6ee867cb-ac82-40d1-85cb-c3c1849ccf7f|token|{"name":"ethereum USDT","symbol":"USDT","address":"0xdac17f958d2ee523a2206206994597c13d831ec7","url":"https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7","features":[],"icon":""}
 c4805f66-a0a6-4be4-9b8a-8e433f312985|token|{"name":"ethereum USDC","symbol":"USDC","address":"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48","url":"https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48","features":[],"icon":""}
 e2ab6852-9f41-4ee4-8b50-4b94c6159a66|token|{"name":"binance USDT","symbol":"BSC-USD","address":"0x55d398326f99059ff775485246999027b3197955","url":"https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955","features":[],"icon":""}
@@ -129,3 +124,16 @@ ca965eb7-2040-4153-a862-93d3d0ce1508|dapp|{"name":"DeBank","url":"https://debank
 21928cde-ba44-44dd-b8bb-2728169ff3ba|dapp|{"name":"Bitstack","url":"https://bitstack.com/","features":[],"icon":""}
 529f7bc9-41c8-4450-aad8-356507ac6efb|dapp|{"name":"Thirdweb","url":"https://thirdweb.com/","features":[],"icon":""}
 7a811b64-b267-4006-9ce7-39010d331a83|wallet|{"name":"Nabox","url":"https://nabox.io/","features":[],"icon":""}
+28f56213-677c-40cf-b7e1-8136c32b2328|dapp|{"name":"Conflux Token Approvals","url":"https://www.conflux-tokens-approvals.com/","features":[],"icon":""}
+6614fc8c-3bde-42cb-ab91-f0e8018bde2b|wallet|{"name":"OKX Wallet","url":"https://www.okx.com/web3","features":[],"icon":""}
+d3a34368-e8d7-4bdb-a3d8-4ee37d1119aa|token|{"name":"eCFX","symbol":"eCFX","address":"0xa1f82e14bc09a1b42710df1a8a999b62f294e592","url":"https://etherscan.io/token/0xa1f82e14bc09a1b42710df1a8a999b62f294e592","features":[],"icon":""}
+84cf9388-29e6-4964-be44-76c810e81fdb|token|{"name":"CNHC Token (Conflux)","symbol":"CNHC","address":"cfx:accbh92gw9wzvdxacn7tc3rb7g7tk2uv363s37tr30","url":"https://confluxscan.io/token/cfx:accbh92gw9wzvdxacn7tc3rb7g7tk2uv363s37tr30","features":[],"icon":""}
+a89dacb4-c447-45d7-9316-7ed047d046c2|token|{"name":"CNHC Token (Ethereum)","symbol":"CNHC","address":"0x9293C7B4B4FB90FB3EE76f7C6189aA841E57E5c0","url":"https://etherscan.io/token/0x9293C7B4B4FB90FB3EE76f7C6189aA841E57E5c0","features":[],"icon":""}
+f237cc6d-5df9-456b-97d5-b15464cd514c|token_group|{"name":" CNHC Token Group","symbol":"CNHC","features":[],"icon":""}
+2b19d124-74dc-436f-9dc3-ca2d7deae2bc|dapp|{"name":"Pyth Network","url":"https://pyth.network/","features":[],"icon":""}
+cffccf66-c620-42d4-9d5c-f1ee26785304|dapp|{"name":"Particle Network","url":"https://particle.network/","features":[],"icon":""}
+9d71e2b8-8d80-49e5-ad4d-74d3fc07548c|dapp|{"name":"Curve Finance","url":"https://curve.fi/","features":[],"icon":""}
+748ba8db-1952-494f-b7b5-24602b41b31e|dapp|{"name":"Convex Finance","url":"https://www.convexfinance.com/","features":[],"icon":""}
+c9668806-d94d-4d78-bb92-838f87c1887b|dapp|{"name":"Concentrator","url":"https://concentrator.aladdin.club/","features":[],"icon":""}
+7d17c1c1-4f90-47a5-850d-73450b385a30|cex|{"name":"Bitrue","url":"https://www.bitrue.com/","features":[],"icon":""}
+02bf16d6-ac22-493a-972b-60c628298b4f|dapp|{"name":"123 Conflux","url":"https://123cfx.com/","features":[],"icon":""}

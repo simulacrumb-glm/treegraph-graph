@@ -12,4 +12,8 @@ graph = {
     "links": json.loads(links.to_json(orient='records'))
 }
 with open("data.json", "w") as i:
-    json.dump(graph, i)
+    json.dump(graph, i, indent=2)
+
+with open("../data.js", "w") as j:
+    j.write("var graph=")
+    json.dump(graph, j)
