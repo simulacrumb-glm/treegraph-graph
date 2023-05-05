@@ -899,7 +899,7 @@
     {
       "id": "84cf9388-29e6-4964-be44-76c810e81fdb",
       "type": "token",
-      "name": "CNHC Token (Conflux)",
+      "name": "CNHC Token (Core Space)",
       "url": "https://confluxscan.io/token/cfx:accbh92gw9wzvdxacn7tc3rb7g7tk2uv363s37tr30",
       "address": "cfx:accbh92gw9wzvdxacn7tc3rb7g7tk2uv363s37tr30"
     },
@@ -965,6 +965,13 @@
       "name": "123 Conflux",
       "url": "https://123cfx.com/",
       "address": null
+    },
+    {
+      "id": "27aed57b-574f-4192-8964-50cd92a04231",
+      "type": "token",
+      "name": "CNHC Token (eSpace)",
+      "url": "https://evm.confluxscan.io/token/0x9293c7b4b4fb90fb3ee76f7c6189aa841e57e5c0",
+      "address": "0x9293c7b4b4fb90fb3ee76f7c6189aa841e57e5c0"
     }
   ],
   "links": [
@@ -3657,6 +3664,36 @@
       "source": "dcbe0ed5-a40f-490d-96cb-12b403f51037",
       "dest": "6614fc8c-3bde-42cb-ab91-f0e8018bde2b",
       "predicate": "has_signer"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "27aed57b-574f-4192-8964-50cd92a04231",
+      "predicate": "has_contract"
+    },
+    {
+      "source": "27aed57b-574f-4192-8964-50cd92a04231",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "contract_deployed_on"
+    },
+    {
+      "source": "f237cc6d-5df9-456b-97d5-b15464cd514c",
+      "dest": "27aed57b-574f-4192-8964-50cd92a04231",
+      "predicate": "has_member"
+    },
+    {
+      "source": "27aed57b-574f-4192-8964-50cd92a04231",
+      "dest": "f237cc6d-5df9-456b-97d5-b15464cd514c",
+      "predicate": "is_member_of"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "f237cc6d-5df9-456b-97d5-b15464cd514c",
+      "predicate": "has_listed_member_of"
+    },
+    {
+      "source": "f237cc6d-5df9-456b-97d5-b15464cd514c",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "member_listed_on"
     }
   ]
 }
