@@ -585,3 +585,11 @@ eb28abb6-2cdf-4400-9374-42c399d3f1de|7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|contra
 4d8fafd5-7938-4f80-9e18-59e5a92059a2|119d2910-883b-4253-a10b-c7e9d43bf1da|has_contract
 f607ffad-fc63-4bb4-ad5e-b87ab78fe4d0|ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|contract_deployed_on
 ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|f607ffad-fc63-4bb4-ad5e-b87ab78fe4d0|has_contract
+6d473d1f-14ee-4f3a-ad89-da8eed21da57|dcbe0ed5-a40f-490d-96cb-12b403f51037|contract_deployed_on
+dcbe0ed5-a40f-490d-96cb-12b403f51037|6d473d1f-14ee-4f3a-ad89-da8eed21da57|has_contract
+6d473d1f-14ee-4f3a-ad89-da8eed21da57|46dffb7d-c752-427c-aa29-4579234999bd|is_member_of
+46dffb7d-c752-427c-aa29-4579234999bd|6d473d1f-14ee-4f3a-ad89-da8eed21da57|has_member
+60c5dfca-fa7a-424e-893b-c50e50e08493|dcbe0ed5-a40f-490d-96cb-12b403f51037|contract_deployed_on
+dcbe0ed5-a40f-490d-96cb-12b403f51037|60c5dfca-fa7a-424e-893b-c50e50e08493|has_contract
+60c5dfca-fa7a-424e-893b-c50e50e08493|d634d434-5884-498f-9dae-17040aac01a7|is_member_of
+d634d434-5884-498f-9dae-17040aac01a7|60c5dfca-fa7a-424e-893b-c50e50e08493|has_member

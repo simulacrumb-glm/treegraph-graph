@@ -1021,6 +1021,20 @@
       "name": "dForce USD (BNB Chain)",
       "url": "https://www.bscscan.com/token/0xb5102cee1528ce2c760893034a4603663495fd72",
       "address": "0xb5102cee1528ce2c7608930"
+    },
+    {
+      "id": "6d473d1f-14ee-4f3a-ad89-da8eed21da57",
+      "type": "token",
+      "name": "KCC-Peg USD Coin (KCC)",
+      "url": "https://explorer.kcc.io/en/token/0x980a5afef3d17ad98635f6c5aebcbaeded3c3430",
+      "address": "0x980a5afef3d17ad98635f6c5aebcbaeded3c3430"
+    },
+    {
+      "id": "60c5dfca-fa7a-424e-893b-c50e50e08493",
+      "type": "token",
+      "name": "KCC-Peg Tether USD (KCC)",
+      "url": "https://explorer.kcc.io/en/token/0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48",
+      "address": "0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48"
     }
   ],
   "links": [
@@ -3953,6 +3967,46 @@
       "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
       "dest": "f607ffad-fc63-4bb4-ad5e-b87ab78fe4d0",
       "predicate": "has_contract"
+    },
+    {
+      "source": "6d473d1f-14ee-4f3a-ad89-da8eed21da57",
+      "dest": "dcbe0ed5-a40f-490d-96cb-12b403f51037",
+      "predicate": "contract_deployed_on"
+    },
+    {
+      "source": "dcbe0ed5-a40f-490d-96cb-12b403f51037",
+      "dest": "6d473d1f-14ee-4f3a-ad89-da8eed21da57",
+      "predicate": "has_contract"
+    },
+    {
+      "source": "6d473d1f-14ee-4f3a-ad89-da8eed21da57",
+      "dest": "46dffb7d-c752-427c-aa29-4579234999bd",
+      "predicate": "is_member_of"
+    },
+    {
+      "source": "46dffb7d-c752-427c-aa29-4579234999bd",
+      "dest": "6d473d1f-14ee-4f3a-ad89-da8eed21da57",
+      "predicate": "has_member"
+    },
+    {
+      "source": "60c5dfca-fa7a-424e-893b-c50e50e08493",
+      "dest": "dcbe0ed5-a40f-490d-96cb-12b403f51037",
+      "predicate": "contract_deployed_on"
+    },
+    {
+      "source": "dcbe0ed5-a40f-490d-96cb-12b403f51037",
+      "dest": "60c5dfca-fa7a-424e-893b-c50e50e08493",
+      "predicate": "has_contract"
+    },
+    {
+      "source": "60c5dfca-fa7a-424e-893b-c50e50e08493",
+      "dest": "d634d434-5884-498f-9dae-17040aac01a7",
+      "predicate": "is_member_of"
+    },
+    {
+      "source": "d634d434-5884-498f-9dae-17040aac01a7",
+      "dest": "60c5dfca-fa7a-424e-893b-c50e50e08493",
+      "predicate": "has_member"
     }
   ]
 }
