@@ -986,6 +986,41 @@
       "name": "The Graph",
       "url": "https://doc.confluxnetwork.org/docs/category/the-graph/",
       "address": null
+    },
+    {
+      "id": "c76cf34c-b52f-49cf-b281-b2ebf5cc7208",
+      "type": "dapp",
+      "name": "dForce",
+      "url": "https://dforce.network/",
+      "address": null
+    },
+    {
+      "id": "38c68f83-eafb-4028-a48e-108d82459417",
+      "type": "token_group",
+      "name": "USX Token Group",
+      "url": null,
+      "address": null
+    },
+    {
+      "id": "eb28abb6-2cdf-4400-9374-42c399d3f1de",
+      "type": "token",
+      "name": "dForce USD (eSpace)",
+      "url": "https://evm.confluxscan.net/token/0x422a86f57b6b6f1e557d406331c25eeed075e7aa",
+      "address": "0x422a86f57b6b6f1e557d406331c25eeed075e7aa"
+    },
+    {
+      "id": "119d2910-883b-4253-a10b-c7e9d43bf1da",
+      "type": "token",
+      "name": "dForce USD (Ethereum)",
+      "url": "https://etherscan.io/token/0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8",
+      "address": "0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8"
+    },
+    {
+      "id": "f607ffad-fc63-4bb4-ad5e-b87ab78fe4d0",
+      "type": "token",
+      "name": "dForce USD (BNB Chain)",
+      "url": "https://www.bscscan.com/token/0xb5102cee1528ce2c760893034a4603663495fd72",
+      "address": "0xb5102cee1528ce2c7608930"
     }
   ],
   "links": [
@@ -3798,6 +3833,126 @@
       "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
       "dest": "20a237e3-61af-4dfa-b392-6d06592d1a73",
       "predicate": "has_transactor"
+    },
+    {
+      "source": "c76cf34c-b52f-49cf-b281-b2ebf5cc7208",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "c76cf34c-b52f-49cf-b281-b2ebf5cc7208",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "c76cf34c-b52f-49cf-b281-b2ebf5cc7208",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "c76cf34c-b52f-49cf-b281-b2ebf5cc7208",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "c76cf34c-b52f-49cf-b281-b2ebf5cc7208",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "c76cf34c-b52f-49cf-b281-b2ebf5cc7208",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "38c68f83-eafb-4028-a48e-108d82459417",
+      "dest": "eb28abb6-2cdf-4400-9374-42c399d3f1de",
+      "predicate": "has_member"
+    },
+    {
+      "source": "38c68f83-eafb-4028-a48e-108d82459417",
+      "dest": "119d2910-883b-4253-a10b-c7e9d43bf1da",
+      "predicate": "has_member"
+    },
+    {
+      "source": "38c68f83-eafb-4028-a48e-108d82459417",
+      "dest": "f607ffad-fc63-4bb4-ad5e-b87ab78fe4d0",
+      "predicate": "has_member"
+    },
+    {
+      "source": "eb28abb6-2cdf-4400-9374-42c399d3f1de",
+      "dest": "38c68f83-eafb-4028-a48e-108d82459417",
+      "predicate": "is_member_of"
+    },
+    {
+      "source": "119d2910-883b-4253-a10b-c7e9d43bf1da",
+      "dest": "38c68f83-eafb-4028-a48e-108d82459417",
+      "predicate": "is_member_of"
+    },
+    {
+      "source": "f607ffad-fc63-4bb4-ad5e-b87ab78fe4d0",
+      "dest": "38c68f83-eafb-4028-a48e-108d82459417",
+      "predicate": "is_member_of"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "38c68f83-eafb-4028-a48e-108d82459417",
+      "predicate": "has_listed_member_of"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "38c68f83-eafb-4028-a48e-108d82459417",
+      "predicate": "has_listed_member_of"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "38c68f83-eafb-4028-a48e-108d82459417",
+      "predicate": "has_listed_member_of"
+    },
+    {
+      "source": "38c68f83-eafb-4028-a48e-108d82459417",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "member_listed_on"
+    },
+    {
+      "source": "38c68f83-eafb-4028-a48e-108d82459417",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "member_listed_on"
+    },
+    {
+      "source": "38c68f83-eafb-4028-a48e-108d82459417",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "member_listed_on"
+    },
+    {
+      "source": "eb28abb6-2cdf-4400-9374-42c399d3f1de",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "contract_deployed_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "eb28abb6-2cdf-4400-9374-42c399d3f1de",
+      "predicate": "has_contract"
+    },
+    {
+      "source": "119d2910-883b-4253-a10b-c7e9d43bf1da",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "contract_deployed_on"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "119d2910-883b-4253-a10b-c7e9d43bf1da",
+      "predicate": "has_contract"
+    },
+    {
+      "source": "f607ffad-fc63-4bb4-ad5e-b87ab78fe4d0",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "contract_deployed_on"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "f607ffad-fc63-4bb4-ad5e-b87ab78fe4d0",
+      "predicate": "has_contract"
     }
   ]
 }

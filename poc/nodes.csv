@@ -140,3 +140,8 @@ e3f3b37d-e42b-4070-bfbb-6892f3967fa7|wallet|{"name":"MetaMask","url":"https://me
 b33a91e5-0452-4217-95f1-c5898586ce1d|wallet|{"name":"Token Pocket","url":"https://www.tokenpocket.pro/","features":[],"icon":""}
 5d1842c9-6b3b-4a4f-9e3f-b986f8d3df92|dapp|{"name":"ThirdFi","url":"https://www.thirdfi.org/","features":[],"icon":""}
 20a237e3-61af-4dfa-b392-6d06592d1a73|dapp|{"name":"The Graph","url":"https://doc.confluxnetwork.org/docs/category/the-graph/","features":[],"icon":""}
+c76cf34c-b52f-49cf-b281-b2ebf5cc7208|dapp|{"name":"dForce","url":"https://dforce.network/","features":[],"icon":""}
+38c68f83-eafb-4028-a48e-108d82459417|token_group|{"name":"USX Token Group","symbol":"USX","features":[],"icon":""}
+eb28abb6-2cdf-4400-9374-42c399d3f1de|token|{"name":"dForce USD (eSpace)","symbol":"USX","address":"0x422a86f57b6b6f1e557d406331c25eeed075e7aa","url":"https://evm.confluxscan.net/token/0x422a86f57b6b6f1e557d406331c25eeed075e7aa","features":[],"icon":""}
+119d2910-883b-4253-a10b-c7e9d43bf1da|token|{"name":"dForce USD (Ethereum)","symbol":"USX","address":"0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8","url":"https://etherscan.io/token/0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8","features":[],"icon":""}
+f607ffad-fc63-4bb4-ad5e-b87ab78fe4d0|token|{"name":"dForce USD (BNB Chain)","symbol":"USX","address":"0xb5102cee1528ce2c7608930","url":"https://www.bscscan.com/token/0xb5102cee1528ce2c760893034a4603663495fd72","features":[],"icon":""}
