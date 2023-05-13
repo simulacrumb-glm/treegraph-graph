@@ -972,6 +972,20 @@
       "name": "Token Pocket",
       "url": "https://www.tokenpocket.pro/",
       "address": null
+    },
+    {
+      "id": "5d1842c9-6b3b-4a4f-9e3f-b986f8d3df92",
+      "type": "dapp",
+      "name": "ThirdFi",
+      "url": "https://www.thirdfi.org/",
+      "address": null
+    },
+    {
+      "id": "20a237e3-61af-4dfa-b392-6d06592d1a73",
+      "type": "dapp",
+      "name": "The Graph",
+      "url": "https://doc.confluxnetwork.org/docs/category/the-graph/",
+      "address": null
     }
   ],
   "links": [
@@ -3713,6 +3727,76 @@
     {
       "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
       "dest": "a4469737-c693-4d74-ad2c-59d16877e9b4",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "0af80904-cfaa-445c-bb49-bbee5fe731d9",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "0af80904-cfaa-445c-bb49-bbee5fe731d9",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "5d1842c9-6b3b-4a4f-9e3f-b986f8d3df92",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "5d1842c9-6b3b-4a4f-9e3f-b986f8d3df92",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "5d1842c9-6b3b-4a4f-9e3f-b986f8d3df92",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "5d1842c9-6b3b-4a4f-9e3f-b986f8d3df92",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "5d1842c9-6b3b-4a4f-9e3f-b986f8d3df92",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "5d1842c9-6b3b-4a4f-9e3f-b986f8d3df92",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "20a237e3-61af-4dfa-b392-6d06592d1a73",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "20a237e3-61af-4dfa-b392-6d06592d1a73",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "20a237e3-61af-4dfa-b392-6d06592d1a73",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "20a237e3-61af-4dfa-b392-6d06592d1a73",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "20a237e3-61af-4dfa-b392-6d06592d1a73",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "20a237e3-61af-4dfa-b392-6d06592d1a73",
       "predicate": "has_transactor"
     }
   ]
