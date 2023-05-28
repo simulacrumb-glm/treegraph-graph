@@ -50,10 +50,24 @@
       "address": null
     },
     {
+      "id": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "type": "bridge",
+      "name": "MetaPath_me",
+      "url": "https://dapp.path.finance/",
+      "address": null
+    },
+    {
       "id": "28676732-6705-47a4-964a-e41bf886e38f",
       "type": "bridge",
       "name": "Multichain",
       "url": "https://multichain.org/",
+      "address": null
+    },
+    {
+      "id": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "type": "bridge",
+      "name": "SWFT Bridge",
+      "url": "https://defi.swft.pro/",
       "address": null
     },
     {
@@ -274,6 +288,20 @@
       "address": null
     },
     {
+      "id": "e3301ad5-f727-4caf-9d5c-4fdcd137c518",
+      "type": "dapp",
+      "name": "3thos3",
+      "url": "https://3thos.club/pc",
+      "address": null
+    },
+    {
+      "id": "4bae5a00-f324-4d46-9fb6-8eac03079d0c",
+      "type": "dapp",
+      "name": "Biconomy",
+      "url": "https://www.biconomy.io/",
+      "address": null
+    },
+    {
       "id": "21928cde-ba44-44dd-b8bb-2728169ff3ba",
       "type": "dapp",
       "name": "Bitstack",
@@ -425,6 +453,13 @@
       "type": "dapp",
       "name": "SimpleSwap",
       "url": "https://simpleswap.io/",
+      "address": null
+    },
+    {
+      "id": "387d52b4-d7c8-4d2a-8726-4ffb6dbab8c0",
+      "type": "dapp",
+      "name": "Soquest",
+      "url": "https://soquest.xyz/",
       "address": null
     },
     {
@@ -876,13 +911,6 @@
       "address": "0x980a5afef3d17ad98635f6c5aebcbaeded3c3430"
     },
     {
-      "id": "f237cc6d-5df9-456b-97d5-b15464cd514c",
-      "type": "token_group",
-      "name": "CNHC Token Group",
-      "url": null,
-      "address": null
-    },
-    {
       "id": "9f067efd-7a2c-47b5-94fa-148aaa8aa367",
       "type": "token_group",
       "name": "BNB Token Group",
@@ -900,6 +928,13 @@
       "id": "308a0f45-aeb8-493d-8166-7317cc7a65e0",
       "type": "token_group",
       "name": "CFX Token Group",
+      "url": null,
+      "address": null
+    },
+    {
+      "id": "f237cc6d-5df9-456b-97d5-b15464cd514c",
+      "type": "token_group",
+      "name": "CNHC Token Group",
       "url": null,
       "address": null
     },
@@ -999,6 +1034,13 @@
       "type": "wallet",
       "name": "Fox Wallet",
       "url": "https://foxwallet.com/",
+      "address": null
+    },
+    {
+      "id": "debccaf6-02a2-4df4-a723-4a4276822e0d",
+      "type": "wallet",
+      "name": "Halo Wallet",
+      "url": "https://halo.social/",
       "address": null
     },
     {
@@ -4125,6 +4167,126 @@
       "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
       "dest": "1f971af6-2acc-4b95-8e17-305410afe090",
       "predicate": "has_contract"
+    },
+    {
+      "source": "4bae5a00-f324-4d46-9fb6-8eac03079d0c",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "4bae5a00-f324-4d46-9fb6-8eac03079d0c",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "4bae5a00-f324-4d46-9fb6-8eac03079d0c",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "4bae5a00-f324-4d46-9fb6-8eac03079d0c",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "4bae5a00-f324-4d46-9fb6-8eac03079d0c",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "4bae5a00-f324-4d46-9fb6-8eac03079d0c",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "e3301ad5-f727-4caf-9d5c-4fdcd137c518",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "e3301ad5-f727-4caf-9d5c-4fdcd137c518",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "e3301ad5-f727-4caf-9d5c-4fdcd137c518",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "e3301ad5-f727-4caf-9d5c-4fdcd137c518",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "e3301ad5-f727-4caf-9d5c-4fdcd137c518",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "e3301ad5-f727-4caf-9d5c-4fdcd137c518",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "387d52b4-d7c8-4d2a-8726-4ffb6dbab8c0",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "387d52b4-d7c8-4d2a-8726-4ffb6dbab8c0",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "387d52b4-d7c8-4d2a-8726-4ffb6dbab8c0",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "387d52b4-d7c8-4d2a-8726-4ffb6dbab8c0",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "387d52b4-d7c8-4d2a-8726-4ffb6dbab8c0",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "387d52b4-d7c8-4d2a-8726-4ffb6dbab8c0",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "debccaf6-02a2-4df4-a723-4a4276822e0d",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "signs_on"
+    },
+    {
+      "source": "debccaf6-02a2-4df4-a723-4a4276822e0d",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "signs_on"
+    },
+    {
+      "source": "debccaf6-02a2-4df4-a723-4a4276822e0d",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "signs_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "debccaf6-02a2-4df4-a723-4a4276822e0d",
+      "predicate": "has_signer"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "debccaf6-02a2-4df4-a723-4a4276822e0d",
+      "predicate": "has_signer"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "debccaf6-02a2-4df4-a723-4a4276822e0d",
+      "predicate": "has_signer"
     }
   ]
 }
