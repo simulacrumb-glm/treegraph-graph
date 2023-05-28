@@ -78,7 +78,8 @@ cc2a630c-fef8-4bf1-be9f-639195f3b379|dapp|{"name":"Token Terminal","url":"https:
 d1ca7197-dc59-4dd3-b50b-dbdf2332875f|network|{"name":"Arbitrum","url":"https://arbiscan.io/","features":[],"icon":""}
 2932ce19-1a50-4ead-92f6-d61bde186a4f|network|{"name":"Arweave","url":"https://viewblock.io/arweave","features":[],"icon":""}
 afab465f-da9a-42db-868b-4e8be1b8ea4f|network|{"name":"Aurora","url":"https://explorer.mainnet.aurora.dev/","features":[],"icon":""}
-ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777|network|{"name":"Avalance","url":"https://avascan.info/","features":[],"icon":""}
+ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777|network|{"name":"Avalanche","url":"https://avascan.info/","features":[],"icon":""}
+ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|network|{"name":"Bitcoin Network","url":"https://www.blockchain.com/explorer/assets/btc","features":[],"icon":""}
 ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|network|{"name":"BNB Chain","url":"https://bscscan.com/","features":[],"icon":""}
 eb6cf13a-a594-490d-9df4-93447f6dd977|network|{"name":"CLV Parachain","url":"https://clover.subscan.io/","features":[],"icon":""}
 4967a41b-13e6-4c0e-adae-331ef39b6183|network|{"name":"Conflux Core space","url":"https://confluxscan.io/","features":[],"icon":""}

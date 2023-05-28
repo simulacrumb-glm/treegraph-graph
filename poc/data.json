@@ -556,8 +556,15 @@
     {
       "id": "ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777",
       "type": "network",
-      "name": "Avalance",
+      "name": "Avalanche",
       "url": "https://avascan.info/",
+      "address": null
+    },
+    {
+      "id": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "type": "network",
+      "name": "Bitcoin Network",
+      "url": "https://www.blockchain.com/explorer/assets/btc",
       "address": null
     },
     {
@@ -4287,6 +4294,276 @@
       "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
       "dest": "debccaf6-02a2-4df4-a723-4a4276822e0d",
       "predicate": "has_signer"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "d1ca7197-dc59-4dd3-b50b-dbdf2332875f",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "afab465f-da9a-42db-868b-4e8be1b8ea4f",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "ef89f8c5-4e02-4c8b-9557-559dc935c043",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "e4c7fa86-372e-41e6-9ef3-1a26729f56de",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "540d0b08-0f27-4be5-a228-95ba8495ea0a",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "dcbe0ed5-a40f-490d-96cb-12b403f51037",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "0412306a-2f7c-4b94-b707-270b880f7b15",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "d2cf9999-e014-443e-9c60-2901fbc67a07",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "dest": "6eac7082-4692-4e44-832b-05a102aa33a7",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "d1ca7197-dc59-4dd3-b50b-dbdf2332875f",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "afab465f-da9a-42db-868b-4e8be1b8ea4f",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ef89f8c5-4e02-4c8b-9557-559dc935c043",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "e4c7fa86-372e-41e6-9ef3-1a26729f56de",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "540d0b08-0f27-4be5-a228-95ba8495ea0a",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "dcbe0ed5-a40f-490d-96cb-12b403f51037",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "0412306a-2f7c-4b94-b707-270b880f7b15",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "d2cf9999-e014-443e-9c60-2901fbc67a07",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "6eac7082-4692-4e44-832b-05a102aa33a7",
+      "dest": "1819936b-ba9b-4336-983e-2209b9d4d962",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "dest": "d1ca7197-dc59-4dd3-b50b-dbdf2332875f",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "dest": "ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "dest": "ef89f8c5-4e02-4c8b-9557-559dc935c043",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "dest": "540d0b08-0f27-4be5-a228-95ba8495ea0a",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "dest": "0412306a-2f7c-4b94-b707-270b880f7b15",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "dest": "22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "dest": "d2cf9999-e014-443e-9c60-2901fbc67a07",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "dest": "6eac7082-4692-4e44-832b-05a102aa33a7",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "d1ca7197-dc59-4dd3-b50b-dbdf2332875f",
+      "dest": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777",
+      "dest": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ef89f8c5-4e02-4c8b-9557-559dc935c043",
+      "dest": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "540d0b08-0f27-4be5-a228-95ba8495ea0a",
+      "dest": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "0412306a-2f7c-4b94-b707-270b880f7b15",
+      "dest": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5",
+      "dest": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "d2cf9999-e014-443e-9c60-2901fbc67a07",
+      "dest": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "6eac7082-4692-4e44-832b-05a102aa33a7",
+      "dest": "11bb5ad6-1f24-4e23-9925-a8b3b95f6c17",
+      "predicate": "has_transactor"
     }
   ]
 }
