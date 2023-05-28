@@ -635,6 +635,10 @@ debccaf6-02a2-4df4-a723-4a4276822e0d|ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|signs_
 7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|debccaf6-02a2-4df4-a723-4a4276822e0d|has_signer
 4d8fafd5-7938-4f80-9e18-59e5a92059a2|debccaf6-02a2-4df4-a723-4a4276822e0d|has_signer
 ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|debccaf6-02a2-4df4-a723-4a4276822e0d|has_signer
+df7a2978-4432-45ee-9310-fc31f805c288|d1ca7197-dc59-4dd3-b50b-dbdf2332875f|transacts_on
+d1ca7197-dc59-4dd3-b50b-dbdf2332875f|df7a2978-4432-45ee-9310-fc31f805c288|has_transactor
+df7a2978-4432-45ee-9310-fc31f805c288|ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|transacts_on
+ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|df7a2978-4432-45ee-9310-fc31f805c288|has_transactor
 1819936b-ba9b-4336-983e-2209b9d4d962|7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|transacts_on
 1819936b-ba9b-4336-983e-2209b9d4d962|d1ca7197-dc59-4dd3-b50b-dbdf2332875f|transacts_on
 1819936b-ba9b-4336-983e-2209b9d4d962|afab465f-da9a-42db-868b-4e8be1b8ea4f|transacts_on

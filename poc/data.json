@@ -1112,6 +1112,13 @@
       "name": "Token Pocket",
       "url": "https://www.tokenpocket.pro/",
       "address": null
+    },
+    {
+      "id": "df7a2978-4432-45ee-9310-fc31f805c288",
+      "type": "dapp",
+      "name": "ReadON",
+      "url": "https://readon.me/",
+      "address": null
     }
   ],
   "links": [
@@ -4294,6 +4301,26 @@
       "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
       "dest": "debccaf6-02a2-4df4-a723-4a4276822e0d",
       "predicate": "has_signer"
+    },
+    {
+      "source": "df7a2978-4432-45ee-9310-fc31f805c288",
+      "dest": "d1ca7197-dc59-4dd3-b50b-dbdf2332875f",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "d1ca7197-dc59-4dd3-b50b-dbdf2332875f",
+      "dest": "df7a2978-4432-45ee-9310-fc31f805c288",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "df7a2978-4432-45ee-9310-fc31f805c288",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "df7a2978-4432-45ee-9310-fc31f805c288",
+      "predicate": "has_transactor"
     },
     {
       "source": "1819936b-ba9b-4336-983e-2209b9d4d962",
