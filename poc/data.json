@@ -4318,6 +4318,16 @@
       "predicate": "transacts_on"
     },
     {
+      "source": "aa2df60b-1739-4e48-b746-26731e6ba8fd",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "aa2df60b-1739-4e48-b746-26731e6ba8fd",
+      "predicate": "has_transactor"
+    },
+    {
       "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
       "dest": "df7a2978-4432-45ee-9310-fc31f805c288",
       "predicate": "has_transactor"
