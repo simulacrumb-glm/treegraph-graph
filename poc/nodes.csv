@@ -7,7 +7,6 @@ c0cdbcc4-092a-4cdd-b1b0-99ebf743dfb1|bridge|{"name":"cBridge","url":"https://cbr
 51a037d9-0c69-45e2-9399-895143ecaec7|bridge|{"name":"Everpay","url":"https://everpay.io/","features":[],"icon":""}
 06b2d31a-5508-49e3-816a-99a7730c1a62|bridge|{"name":"Meson","url":"https://meson.fi/","features":[],"icon":""}
 1819936b-ba9b-4336-983e-2209b9d4d962|bridge|{"name":"MetaPath_me","url":"https://dapp.path.finance/","features":[],"icon":""}
-28676732-6705-47a4-964a-e41bf886e38f|bridge|{"name":"Multichain","url":"https://multichain.org/","features":["bridge"],"icon":""}
 11bb5ad6-1f24-4e23-9925-a8b3b95f6c17|bridge|{"name":"SWFT Bridge","url":"https://defi.swft.pro/","features":[],"icon":""}
 ae192521-18d6-46a7-adbc-5b8ed6db3e80|cex|{"name":"Bibox","url":"https://www.bibox.com/","features":[],"icon":""}
 c9df9276-e65b-4d21-85f7-6e0e3cfa7491|cex|{"name":"Billance","url":"https://www.billance.com/","features":[],"icon":""}
@@ -81,7 +80,6 @@ afab465f-da9a-42db-868b-4e8be1b8ea4f|network|{"name":"Aurora","url":"https://exp
 ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777|network|{"name":"Avalanche","url":"https://avascan.info/","features":[],"icon":""}
 ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|network|{"name":"Bitcoin Network","url":"https://www.blockchain.com/explorer/assets/btc","features":[],"icon":""}
 ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|network|{"name":"BNB Chain","url":"https://bscscan.com/","features":[],"icon":""}
-eb6cf13a-a594-490d-9df4-93447f6dd977|network|{"name":"CLV Parachain","url":"https://clover.subscan.io/","features":[],"icon":""}
 4967a41b-13e6-4c0e-adae-331ef39b6183|network|{"name":"Conflux Core space","url":"https://confluxscan.io/","features":[],"icon":""}
 7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|network|{"name":"Conflux eSpace","url":"https://evm.confluxscan.io/","features":[],"icon":""}
 4d8fafd5-7938-4f80-9e18-59e5a92059a2|network|{"name":"Ethereum Network","url":"https://etherscan.io/","features":[],"icon":""}
@@ -99,6 +97,7 @@ dcbe0ed5-a40f-490d-96cb-12b403f51037|network|{"name":"KCC","url":"https://explor
 22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5|network|{"name":"Optimism","url":"https://optimistic.etherscan.io/","features":[],"icon":""}
 d2cf9999-e014-443e-9c60-2901fbc67a07|network|{"name":"Polygon","url":"https://polygonscan.com/","features":[],"icon":""}
 6eac7082-4692-4e44-832b-05a102aa33a7|network|{"name":"Tron","url":"https://tronscan.org/","features":[],"icon":""}
+e250c631-f8a7-41d4-b01e-f6526512bfd9|network|{"name":"Cardano","url":"https://explorer.cardano.org/","features":[],"icon":""}
 405952d9-df63-4d1b-87de-bad63f6c89a0|token|{"name":"binance USDC","symbol":"USDC","address":"0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d","url":"https://bscscan.com/address/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d","features":[],"icon":""}
 e2ab6852-9f41-4ee4-8b50-4b94c6159a66|token|{"name":"binance USDT","symbol":"BSC-USD","address":"0x55d398326f99059ff775485246999027b3197955","url":"https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955","features":[],"icon":""}
 cfe5c5fd-88a6-4128-8756-b7a636733336|token|{"name":"Binance Wrapped CFX","symbol":"bCFX","address":"0x045c4324039dA91c52C55DF5D785385Aab073DcF","url":"https://bscscan.com/address/0x045c4324039dA91c52C55DF5D785385Aab073DcF","features":[],"icon":""}
@@ -159,3 +158,15 @@ e3f3b37d-e42b-4070-bfbb-6892f3967fa7|wallet|{"name":"MetaMask","url":"https://me
 7cf8e837-c02c-49c2-88c0-24dbdd7fb31f|wallet|{"name":"OneKey Wallet","url":"https://onekey.so/","features":[],"icon":""}
 b33a91e5-0452-4217-95f1-c5898586ce1d|wallet|{"name":"Token Pocket","url":"https://www.tokenpocket.pro/","features":[],"icon":""}
 df7a2978-4432-45ee-9310-fc31f805c288|dapp|{"name":"ReadON","url":"https://readon.me/","features":[],"icon":""}
+4dc0acd8-f61e-4dbe-8d3d-4169085e1b70|dapp|{"name":"Onramp.money","url":"https://onramp.money/","features":[],"icon":""}
+68676068-c06d-409e-9b59-b681ce9793be|bridge|{"name":"ChainPort","url":"https://www.chainport.io/","features":[],"icon":""}
+e7302486-b2b5-4dac-b9fb-7629b97e7215|dapp|{"name":"NuLink","url":"https://www.nulink.org/","features":[],"icon":""}
+ca09bceb-8a9b-4033-a804-7ddc27eeb311|dapp|{"name":"World Mobile","url":"https://worldmobile.io/","features":[],"icon":""}
+62aac436-9633-4bc3-a4ca-b855b9bf7634|dapp|{"name":"Carry","url":"https://carryprotocol.io/","features":[],"icon":""}
+87c37ac4-7d0f-4c67-8cb0-f39559d7ae08|dapp|{"name":"Mold","url":"https://mold.trade/","features":[],"icon":""}
+1424454d-bc10-45ae-a765-95af7e33e164|dapp|{"name":"Supremacy","url":"https://supremacy.team/","features":[],"icon":""}
+e3a83344-d01f-49d5-9f85-de924bd88522|dapp|{"name":"Unifra Network","url":"https://www.unifra.io/","features":[],"icon":""}
+c3a25948-a0bd-41b8-a5c9-21c187addedd|dapp|{"name":"NFTChina","url":"https://www.nftchina.hk/","features":[],"icon":""}
+f141a419-0c1c-46f1-b063-b94f2ac4856e|dapp|{"name":"Xiaohongshu","url":"https://www.xiaohongshu.com/","features":[],"icon":""}
+2df70fd0-2d89-4487-88ea-96c8c858d986|dapp|{"name":"Tristan","url":"https://tristan.land/","features":[],"icon":""}
+b9d73b24-66fd-4ea2-ad69-5fcac0eaeb30|dapp|{"name":"NFTPlay","url":"https://nftplay.fun/","features":[],"icon":""}
