@@ -1,9 +1,9 @@
 id|type|fields
 9712aa7b-d96f-4bb1-b3fb-a7f058604479|bridge|{"name":"BoringDAO","url":"https://www.boringdao.com/","features":[],"icon":""}
 c0cdbcc4-092a-4cdd-b1b0-99ebf743dfb1|bridge|{"name":"cBridge","url":"https://cbridge.celer.network/","features":["bridge"],"icon":""}
-024eb4f2-81ed-4a89-84f0-b23f5b67364b|bridge|{"name":"Confluxhub BNB-eSpace Bridge","url":"https://confluxhub.io/espace-bridge/bsc-espace-cfx","features":[],"icon":""}
+024eb4f2-81ed-4a89-84f0-b23f5b67364b|bridge|{"name":"Confluxhub eSpace Bridge","url":"https://confluxhub.io/espace-bridge/bsc-espace-cfx","features":[],"icon":""}
 5e0fd9f4-0d24-4155-936e-e8e51c249904|bridge|{"name":"Confluxhub Cross-Space Bridge","url":"https://confluxhub.io/espace-bridge/cross-space","features":["bridge"],"icon":""}
-1bd05ed9-6124-416b-bafe-e1d1f7ef53bc|bridge|{"name":"Confluxhub Shuttleflow","url":"https://confluxhub.io/shuttle-flow/","features":[],"icon":""}
+1bd05ed9-6124-416b-bafe-e1d1f7ef53bc|bridge|{"name":"Zero Gravity Portal","url":"https://portal.zglabs.org/","features":[],"icon":""}
 51a037d9-0c69-45e2-9399-895143ecaec7|bridge|{"name":"Everpay","url":"https://everpay.io/","features":[],"icon":""}
 06b2d31a-5508-49e3-816a-99a7730c1a62|bridge|{"name":"Meson","url":"https://meson.fi/","features":[],"icon":""}
 1819936b-ba9b-4336-983e-2209b9d4d962|bridge|{"name":"MetaPath_me","url":"https://dapp.path.finance/","features":[],"icon":""}

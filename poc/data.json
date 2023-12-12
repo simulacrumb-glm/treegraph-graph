@@ -17,7 +17,7 @@
     {
       "id": "024eb4f2-81ed-4a89-84f0-b23f5b67364b",
       "type": "bridge",
-      "name": "Confluxhub BNB-eSpace Bridge",
+      "name": "Confluxhub eSpace Bridge",
       "url": "https://confluxhub.io/espace-bridge/bsc-espace-cfx",
       "address": null
     },
@@ -31,8 +31,8 @@
     {
       "id": "1bd05ed9-6124-416b-bafe-e1d1f7ef53bc",
       "type": "bridge",
-      "name": "Confluxhub Shuttleflow",
-      "url": "https://confluxhub.io/shuttle-flow/",
+      "name": "Zero Gravity Portal",
+      "url": "https://portal.zglabs.org/",
       "address": null
     },
     {
@@ -4777,6 +4777,16 @@
     {
       "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
       "dest": "b9d73b24-66fd-4ea2-ad69-5fcac0eaeb30",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "5e0fd9f4-0d24-4155-936e-e8e51c249904",
+      "dest": "0412306a-2f7c-4b94-b707-270b880f7b15",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "0412306a-2f7c-4b94-b707-270b880f7b15",
+      "dest": "5e0fd9f4-0d24-4155-936e-e8e51c249904",
       "predicate": "has_transactor"
     }
   ]
