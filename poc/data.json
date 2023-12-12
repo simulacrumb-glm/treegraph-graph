@@ -526,6 +526,13 @@
       "address": null
     },
     {
+      "id": "330fe82d-21e3-4b6c-85a4-9347c18b8cb8",
+      "type": "dapp",
+      "name": "Unitus Finance",
+      "url": "https://unitus.finance/",
+      "address": null
+    },
+    {
       "id": "d1ca7197-dc59-4dd3-b50b-dbdf2332875f",
       "type": "network",
       "name": "Arbitrum",
@@ -554,7 +561,7 @@
       "address": null
     },
     {
-      "id": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "id": "b933b556-2143-4cc4-8b17-472e1770bd16",
       "type": "network",
       "name": "Bitcoin Network",
       "url": "https://www.blockchain.com/explorer/assets/btc",
@@ -4787,6 +4794,96 @@
     {
       "source": "0412306a-2f7c-4b94-b707-270b880f7b15",
       "dest": "5e0fd9f4-0d24-4155-936e-e8e51c249904",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "330fe82d-21e3-4b6c-85a4-9347c18b8cb8",
+      "dest": "d1ca7197-dc59-4dd3-b50b-dbdf2332875f",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "330fe82d-21e3-4b6c-85a4-9347c18b8cb8",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "330fe82d-21e3-4b6c-85a4-9347c18b8cb8",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "330fe82d-21e3-4b6c-85a4-9347c18b8cb8",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "330fe82d-21e3-4b6c-85a4-9347c18b8cb8",
+      "dest": "22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "330fe82d-21e3-4b6c-85a4-9347c18b8cb8",
+      "dest": "d2cf9999-e014-443e-9c60-2901fbc67a07",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "d1ca7197-dc59-4dd3-b50b-dbdf2332875f",
+      "dest": "330fe82d-21e3-4b6c-85a4-9347c18b8cb8",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "330fe82d-21e3-4b6c-85a4-9347c18b8cb8",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "330fe82d-21e3-4b6c-85a4-9347c18b8cb8",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "330fe82d-21e3-4b6c-85a4-9347c18b8cb8",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5",
+      "dest": "330fe82d-21e3-4b6c-85a4-9347c18b8cb8",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "d2cf9999-e014-443e-9c60-2901fbc67a07",
+      "dest": "330fe82d-21e3-4b6c-85a4-9347c18b8cb8",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "c76cf34c-b52f-49cf-b281-b2ebf5cc7208",
+      "dest": "d1ca7197-dc59-4dd3-b50b-dbdf2332875f",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "c76cf34c-b52f-49cf-b281-b2ebf5cc7208",
+      "dest": "22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "c76cf34c-b52f-49cf-b281-b2ebf5cc7208",
+      "dest": "d2cf9999-e014-443e-9c60-2901fbc67a07",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "d1ca7197-dc59-4dd3-b50b-dbdf2332875f",
+      "dest": "c76cf34c-b52f-49cf-b281-b2ebf5cc7208",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5",
+      "dest": "c76cf34c-b52f-49cf-b281-b2ebf5cc7208",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "d2cf9999-e014-443e-9c60-2901fbc67a07",
+      "dest": "c76cf34c-b52f-49cf-b281-b2ebf5cc7208",
       "predicate": "has_transactor"
     }
   ]

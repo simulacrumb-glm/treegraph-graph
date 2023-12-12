@@ -74,11 +74,12 @@ cc2a630c-fef8-4bf1-be9f-639195f3b379|dapp|{"name":"Token Terminal","url":"https:
 4dab7d19-4e85-4931-94d3-413be9f692a1|dapp|{"name":"Triangle DAO","url":"https://www.triangledao.finance/","features":[],"icon":""}
 2264c41c-075a-4be0-b543-d49c397eaec5|dapp|{"name":"TrustSwap","url":"https://trustswap.com/","features":[],"icon":""}
 955c3a79-6a0b-4460-897c-fe83d0f0dc82|dapp|{"name":"Turbo Starter","url":"https://turbostarter.io/","features":[],"icon":""}
+330fe82d-21e3-4b6c-85a4-9347c18b8cb8|dapp|{"name":"Unitus Finance","url":"https://unitus.finance/","features":[],"icon":""}
 d1ca7197-dc59-4dd3-b50b-dbdf2332875f|network|{"name":"Arbitrum","url":"https://arbiscan.io/","features":[],"icon":""}
 2932ce19-1a50-4ead-92f6-d61bde186a4f|network|{"name":"Arweave","url":"https://viewblock.io/arweave","features":[],"icon":""}
 afab465f-da9a-42db-868b-4e8be1b8ea4f|network|{"name":"Aurora","url":"https://explorer.mainnet.aurora.dev/","features":[],"icon":""}
 ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777|network|{"name":"Avalanche","url":"https://avascan.info/","features":[],"icon":""}
-ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|network|{"name":"Bitcoin Network","url":"https://www.blockchain.com/explorer/assets/btc","features":[],"icon":""}
+b933b556-2143-4cc4-8b17-472e1770bd16|network|{"name":"Bitcoin Network","url":"https://www.blockchain.com/explorer/assets/btc","features":[],"icon":""}
 ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|network|{"name":"BNB Chain","url":"https://bscscan.com/","features":[],"icon":""}
 4967a41b-13e6-4c0e-adae-331ef39b6183|network|{"name":"Conflux Core space","url":"https://confluxscan.io/","features":[],"icon":""}
 7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|network|{"name":"Conflux eSpace","url":"https://evm.confluxscan.io/","features":[],"icon":""}
