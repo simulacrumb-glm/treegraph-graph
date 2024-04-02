@@ -41,8 +41,8 @@ d93331f8-c31a-45c8-a146-c680705faaf1|cex|{"name":"Pionex","url":"https://www.pio
 1db9c164-dd6a-4339-95ff-ea69fcb9e890|coin|{"name":"Ethereum Network ETH","symbol":"ETH","address":"native coin","url":"https://etherscan.io/","features":[],"icon":""}
 02bf16d6-ac22-493a-972b-60c628298b4f|dapp|{"name":"123 Conflux","url":"https://123cfx.com/","features":[],"icon":""}
 e3301ad5-f727-4caf-9d5c-4fdcd137c518|dapp|{"name":"3thos3","url":"https://3thos.club/pc","features":[],"icon":""}
-bcac674c-1df8-47ec-989e-82abf5443ae4|dapp|{"name":"ABC Pool","url":"","features":[],"icon":"https://confluxpos.cn/"}
-f5411d99-b8b4-45e8-9b32-033dac1ff215|dapp|{"name":"AnchorX","url":"","features":[],"icon":"https://www.anchorx.org/"}
+bcac674c-1df8-47ec-989e-82abf5443ae4|dapp|{"name":"ABC Pool","url":"https://confluxpos.cn/","features":[],"icon":""}
+f5411d99-b8b4-45e8-9b32-033dac1ff215|dapp|{"name":"AnchorX","url":"https://www.anchorx.org/","features":[],"icon":""}
 4bae5a00-f324-4d46-9fb6-8eac03079d0c|dapp|{"name":"Biconomy","url":"https://www.biconomy.io/","features":[],"icon":""}
 21928cde-ba44-44dd-b8bb-2728169ff3ba|dapp|{"name":"Bitstack","url":"https://bitstack.com/","features":[],"icon":""}
 79f3dc2b-c218-4593-b063-1ff099e5fdc0|dapp|{"name":"Blockin.ai","url":"https://www.blockin.ai/?chain=Conflux","features":[],"icon":""}
