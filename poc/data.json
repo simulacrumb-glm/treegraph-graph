@@ -8,6 +8,13 @@
       "address": null
     },
     {
+      "id": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "type": "bridge",
+      "name": "Butterswap.io",
+      "url": "https://www.butterswap.io/",
+      "address": null
+    },
+    {
       "id": "c0cdbcc4-092a-4cdd-b1b0-99ebf743dfb1",
       "type": "bridge",
       "name": "cBridge",
@@ -54,6 +61,13 @@
       "type": "bridge",
       "name": "MetaPath_me",
       "url": "https://dapp.path.finance/",
+      "address": null
+    },
+    {
+      "id": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "type": "bridge",
+      "name": "RocketX",
+      "url": "https://www.rocketx.exchange/",
       "address": null
     },
     {
@@ -134,6 +148,13 @@
       "address": null
     },
     {
+      "id": "41e07f8c-2332-44df-8afc-625a9ce7f5ac",
+      "type": "cex",
+      "name": "ChangeNOW ",
+      "url": "https://changenow.io/",
+      "address": null
+    },
+    {
       "id": "b225affd-228a-444f-9633-bc27e5d58992",
       "type": "cex",
       "name": "CITEX",
@@ -145,6 +166,20 @@
       "type": "cex",
       "name": "CoinEx",
       "url": "https://www.coinex.com/",
+      "address": null
+    },
+    {
+      "id": "c5cb45ab-0866-4fae-8872-35ae171953c1",
+      "type": "cex",
+      "name": "Coinone",
+      "url": "https://coinone.co.kr/",
+      "address": null
+    },
+    {
+      "id": "072b8373-2940-4539-8916-41d3a0edaf06",
+      "type": "cex",
+      "name": "CoinRabbit",
+      "url": "https://coinrabbit.io/",
       "address": null
     },
     {
@@ -372,6 +407,20 @@
       "address": null
     },
     {
+      "id": "3bdc642a-1554-4a97-83b4-4beb073526c8",
+      "type": "dapp",
+      "name": "ChainsAtlas",
+      "url": "https://www.chainsatlas.com/",
+      "address": null
+    },
+    {
+      "id": "b22614a3-ec15-4f14-96ac-2d0e8cd3606c",
+      "type": "dapp",
+      "name": "CoinSender ",
+      "url": "https://coinsender.io/",
+      "address": null
+    },
+    {
       "id": "c9668806-d94d-4d78-bb92-838f87c1887b",
       "type": "dapp",
       "name": "Concentrator",
@@ -568,6 +617,13 @@
       "address": null
     },
     {
+      "id": "90ab5e14-191e-4789-a886-ea5762c94a13",
+      "type": "dapp",
+      "name": "Protofire.io",
+      "url": "https://protofire.io/",
+      "address": null
+    },
+    {
       "id": "2b19d124-74dc-436f-9dc3-ca2d7deae2bc",
       "type": "dapp",
       "name": "Pyth Network",
@@ -666,24 +722,10 @@
       "address": null
     },
     {
-      "id": "4b352042-7960-4f05-9b5c-53335002f104",
-      "type": "dapp",
-      "name": "TraderbotX",
-      "url": "https://traderbotx.github.io/",
-      "address": null
-    },
-    {
       "id": "94fbd8d7-7e07-450e-916e-e3ac7856179a",
       "type": "dapp",
       "name": "Transit Finance",
       "url": "https://www.transit.finance/",
-      "address": null
-    },
-    {
-      "id": "4dab7d19-4e85-4931-94d3-413be9f692a1",
-      "type": "dapp",
-      "name": "Triangle DAO",
-      "url": "https://www.triangledao.finance/",
       "address": null
     },
     {
@@ -768,6 +810,13 @@
       "type": "network",
       "name": "Base",
       "url": "https://basescan.org/",
+      "address": null
+    },
+    {
+      "id": "3464666f-0f07-4c0e-91ce-2a85fb7f2f61",
+      "type": "network",
+      "name": "BEVM",
+      "url": "https://scan.bevm.io/",
       "address": null
     },
     {
@@ -862,6 +911,13 @@
       "address": null
     },
     {
+      "id": "8f65e346-46df-4926-bc02-dec9240bc8b3",
+      "type": "network",
+      "name": "Klaytn",
+      "url": "https://klaytnscope.com/",
+      "address": null
+    },
+    {
       "id": "c5c65fab-ab11-4901-9790-8537e96a8ebe",
       "type": "network",
       "name": "Lambda Network",
@@ -883,6 +939,20 @@
       "address": null
     },
     {
+      "id": "88c8854a-d427-4cad-b026-a21be33a5022",
+      "type": "network",
+      "name": "Map Protocol",
+      "url": "https://www.maposcan.io/",
+      "address": null
+    },
+    {
+      "id": "adda0a70-05bf-48f0-8777-e5124c5c6443",
+      "type": "network",
+      "name": "Merlin Chain",
+      "url": "https://scan.merlinchain.io/",
+      "address": null
+    },
+    {
       "id": "626f3875-5051-4aea-87e3-4434120e44bf",
       "type": "network",
       "name": "Metis",
@@ -901,6 +971,13 @@
       "type": "network",
       "name": "Moonriver",
       "url": "https://moonriver.moonscan.io/",
+      "address": null
+    },
+    {
+      "id": "1f84f3ed-8484-4257-8294-b8dfc35270ea",
+      "type": "network",
+      "name": "NEAR",
+      "url": "https://explorer.near.org/",
       "address": null
     },
     {
@@ -1268,6 +1345,13 @@
       "address": null
     },
     {
+      "id": "0348b27c-836e-43a3-8c88-cd966fdd83f7",
+      "type": "wallet",
+      "name": "FordeFi",
+      "url": "https://fordefi.com/",
+      "address": null
+    },
+    {
       "id": "8d63f259-518b-4598-ae10-a8d197720048",
       "type": "wallet",
       "name": "Fox Wallet",
@@ -1286,6 +1370,13 @@
       "type": "wallet",
       "name": "Hashkey",
       "url": "https://me.hashkey.com/en",
+      "address": null
+    },
+    {
+      "id": "c7ae023a-3713-4296-bd73-792c9ded2b2e",
+      "type": "wallet",
+      "name": "imToken",
+      "url": "https://token.im/",
       "address": null
     },
     {
@@ -1338,6 +1429,13 @@
       "address": null
     },
     {
+      "id": "d55364c8-ea43-4646-83e6-07212f020f90",
+      "type": "wallet",
+      "name": "Rabby Wallet",
+      "url": "https://rabby.io/",
+      "address": null
+    },
+    {
       "id": "b90d86c3-a242-4bbd-97a0-cd290547f965",
       "type": "wallet",
       "name": "Safe Wallet",
@@ -1349,6 +1447,13 @@
       "type": "wallet",
       "name": "Token Pocket",
       "url": "https://www.tokenpocket.pro/",
+      "address": null
+    },
+    {
+      "id": "2aef61ef-bf00-4771-85bb-32fed9c54081",
+      "type": "wallet",
+      "name": "TrustWallet",
+      "url": "https://trustwallet.com/",
       "address": null
     }
   ],
@@ -2129,11 +2234,6 @@
       "predicate": "member_listed_on"
     },
     {
-      "source": "4dab7d19-4e85-4931-94d3-413be9f692a1",
-      "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
-      "predicate": "transacts_on"
-    },
-    {
       "source": "5031a7e0-e7e3-4ad7-b35a-cbf886b4454c",
       "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
       "predicate": "transacts_on"
@@ -2342,11 +2442,6 @@
       "source": "9712aa7b-d96f-4bb1-b3fb-a7f058604479",
       "dest": "4a10699a-8588-44b7-9534-aa8cf7e3244c",
       "predicate": "transacts_on"
-    },
-    {
-      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
-      "dest": "4b352042-7960-4f05-9b5c-53335002f104",
-      "predicate": "has_transactor"
     },
     {
       "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
@@ -2657,16 +2752,6 @@
       "source": "f6cab06c-9f52-454b-a68e-7538cd0a3324",
       "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
       "predicate": "signs_on"
-    },
-    {
-      "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
-      "dest": "4dab7d19-4e85-4931-94d3-413be9f692a1",
-      "predicate": "has_transactor"
-    },
-    {
-      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
-      "dest": "4dab7d19-4e85-4931-94d3-413be9f692a1",
-      "predicate": "has_transactor"
     },
     {
       "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
@@ -3079,17 +3164,7 @@
       "predicate": "contract_deployed_on"
     },
     {
-      "source": "4b352042-7960-4f05-9b5c-53335002f104",
-      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
-      "predicate": "transacts_on"
-    },
-    {
       "source": "4bae5a00-f324-4d46-9fb6-8eac03079d0c",
-      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
-      "predicate": "transacts_on"
-    },
-    {
-      "source": "4dab7d19-4e85-4931-94d3-413be9f692a1",
       "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
       "predicate": "transacts_on"
     },
@@ -5422,6 +5497,506 @@
       "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
       "dest": "bcac674c-1df8-47ec-989e-82abf5443ae4",
       "predicate": "has_transactor"
+    },
+    {
+      "source": "b22614a3-ec15-4f14-96ac-2d0e8cd3606c",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b22614a3-ec15-4f14-96ac-2d0e8cd3606c",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "b22614a3-ec15-4f14-96ac-2d0e8cd3606c",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "b22614a3-ec15-4f14-96ac-2d0e8cd3606c",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "90ab5e14-191e-4789-a886-ea5762c94a13",
+      "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+      "dest": "90ab5e14-191e-4789-a886-ea5762c94a13",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "3bdc642a-1554-4a97-83b4-4beb073526c8",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "3bdc642a-1554-4a97-83b4-4beb073526c8",
+      "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "3bdc642a-1554-4a97-83b4-4beb073526c8",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+      "dest": "3bdc642a-1554-4a97-83b4-4beb073526c8",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "c5cb45ab-0866-4fae-8872-35ae171953c1",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "c5cb45ab-0866-4fae-8872-35ae171953c1",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "0348b27c-836e-43a3-8c88-cd966fdd83f7",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "0348b27c-836e-43a3-8c88-cd966fdd83f7",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "072b8373-2940-4539-8916-41d3a0edaf06",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "072b8373-2940-4539-8916-41d3a0edaf06",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "41e07f8c-2332-44df-8afc-625a9ce7f5ac",
+      "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "41e07f8c-2332-44df-8afc-625a9ce7f5ac",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "41e07f8c-2332-44df-8afc-625a9ce7f5ac",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+      "dest": "41e07f8c-2332-44df-8afc-625a9ce7f5ac",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "41e07f8c-2332-44df-8afc-625a9ce7f5ac",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "41e07f8c-2332-44df-8afc-625a9ce7f5ac",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "c7ae023a-3713-4296-bd73-792c9ded2b2e",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "2aef61ef-bf00-4771-85bb-32fed9c54081",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "d55364c8-ea43-4646-83e6-07212f020f90",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "c7ae023a-3713-4296-bd73-792c9ded2b2e",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "2aef61ef-bf00-4771-85bb-32fed9c54081",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "d55364c8-ea43-4646-83e6-07212f020f90",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "c7ae023a-3713-4296-bd73-792c9ded2b2e",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "2aef61ef-bf00-4771-85bb-32fed9c54081",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "d55364c8-ea43-4646-83e6-07212f020f90",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "c7ae023a-3713-4296-bd73-792c9ded2b2e",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "2aef61ef-bf00-4771-85bb-32fed9c54081",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "d55364c8-ea43-4646-83e6-07212f020f90",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "c7ae023a-3713-4296-bd73-792c9ded2b2e",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "2aef61ef-bf00-4771-85bb-32fed9c54081",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "d55364c8-ea43-4646-83e6-07212f020f90",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "c7ae023a-3713-4296-bd73-792c9ded2b2e",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "2aef61ef-bf00-4771-85bb-32fed9c54081",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "d55364c8-ea43-4646-83e6-07212f020f90",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "dest": "88c8854a-d427-4cad-b026-a21be33a5022",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "dest": "8f65e346-46df-4926-bc02-dec9240bc8b3",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "dest": "1f84f3ed-8484-4257-8294-b8dfc35270ea",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "dest": "3464666f-0f07-4c0e-91ce-2a85fb7f2f61",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "dest": "adda0a70-05bf-48f0-8777-e5124c5c6443",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "dest": "d2cf9999-e014-443e-9c60-2901fbc67a07",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "88c8854a-d427-4cad-b026-a21be33a5022",
+      "dest": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "8f65e346-46df-4926-bc02-dec9240bc8b3",
+      "dest": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "1f84f3ed-8484-4257-8294-b8dfc35270ea",
+      "dest": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "3464666f-0f07-4c0e-91ce-2a85fb7f2f61",
+      "dest": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "adda0a70-05bf-48f0-8777-e5124c5c6443",
+      "dest": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "d2cf9999-e014-443e-9c60-2901fbc67a07",
+      "dest": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "c68eae30-6abd-416b-9f5e-7208fae1a1d2",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "8f65e346-46df-4926-bc02-dec9240bc8b3",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "6eac7082-4692-4e44-832b-05a102aa33a7",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "d2cf9999-e014-443e-9c60-2901fbc67a07",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "0412306a-2f7c-4b94-b707-270b880f7b15",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "707a38b7-c327-477f-b2f5-b00a33ee4e1a",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "74061694-e079-4752-ae73-87a07198e25b",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "626f3875-5051-4aea-87e3-4434120e44bf",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "dcbe0ed5-a40f-490d-96cb-12b403f51037",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "ef89f8c5-4e02-4c8b-9557-559dc935c043",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "b933b556-2143-4cc4-8b17-472e1770bd16",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "dest": "d1ca7197-dc59-4dd3-b50b-dbdf2332875f",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "8f65e346-46df-4926-bc02-dec9240bc8b3",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "6eac7082-4692-4e44-832b-05a102aa33a7",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "d2cf9999-e014-443e-9c60-2901fbc67a07",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "0412306a-2f7c-4b94-b707-270b880f7b15",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "707a38b7-c327-477f-b2f5-b00a33ee4e1a",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "74061694-e079-4752-ae73-87a07198e25b",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "626f3875-5051-4aea-87e3-4434120e44bf",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "dcbe0ed5-a40f-490d-96cb-12b403f51037",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ef89f8c5-4e02-4c8b-9557-559dc935c043",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "4d8fafd5-7938-4f80-9e18-59e5a92059a2",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ea32cfb5-53b2-4aa1-bd65-baac7ca041fc",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "b933b556-2143-4cc4-8b17-472e1770bd16",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "d1ca7197-dc59-4dd3-b50b-dbdf2332875f",
+      "dest": "b38e8353-8be1-4a62-8750-e65952d93f71",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "6533b409-6bdd-40d6-b11b-f3c2971962c3",
+      "dest": "792a617a-9d9d-4398-b4bd-a2ac326dadb7",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "792a617a-9d9d-4398-b4bd-a2ac326dadb7",
+      "dest": "6533b409-6bdd-40d6-b11b-f3c2971962c3",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "308a0f45-aeb8-493d-8166-7317cc7a65e0",
+      "dest": "aeb76669-9919-4daf-8b43-10e857411c2c",
+      "predicate": "has_member"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "aeb76669-9919-4daf-8b43-10e857411c2c",
+      "predicate": "has_contract"
+    },
+    {
+      "source": "aeb76669-9919-4daf-8b43-10e857411c2c",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "contract_deployed_on"
+    },
+    {
+      "source": "aeb76669-9919-4daf-8b43-10e857411c2c",
+      "dest": "308a0f45-aeb8-493d-8166-7317cc7a65e0",
+      "predicate": "is_member_of"
+    },
+    {
+      "source": "308a0f45-aeb8-493d-8166-7317cc7a65e0",
+      "dest": "1012d170-fc29-46ee-b0c7-c06fafef355f",
+      "predicate": "has_member"
+    },
+    {
+      "source": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+      "dest": "1012d170-fc29-46ee-b0c7-c06fafef355f",
+      "predicate": "has_contract"
+    },
+    {
+      "source": "1012d170-fc29-46ee-b0c7-c06fafef355f",
+      "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
+      "predicate": "contract_deployed_on"
+    },
+    {
+      "source": "1012d170-fc29-46ee-b0c7-c06fafef355f",
+      "dest": "308a0f45-aeb8-493d-8166-7317cc7a65e0",
+      "predicate": "is_member_of"
     }
   ]
 }

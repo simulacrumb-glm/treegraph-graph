@@ -1,5 +1,6 @@
 id|type|fields
 9712aa7b-d96f-4bb1-b3fb-a7f058604479|bridge|{"name":"BoringDAO","url":"https://www.boringdao.com/","features":[],"icon":""}
+c68eae30-6abd-416b-9f5e-7208fae1a1d2|bridge|{"name":"Butterswap.io","url":"https://www.butterswap.io/","features":[],"icon":""}
 c0cdbcc4-092a-4cdd-b1b0-99ebf743dfb1|bridge|{"name":"cBridge","url":"https://cbridge.celer.network/","features":["bridge"],"icon":""}
 68676068-c06d-409e-9b59-b681ce9793be|bridge|{"name":"ChainPort","url":"https://www.chainport.io/","features":[],"icon":""}
 5e0fd9f4-0d24-4155-936e-e8e51c249904|bridge|{"name":"Confluxhub Cross-Space Bridge","url":"https://confluxhub.io/espace-bridge/cross-space","features":["bridge"],"icon":""}
@@ -7,6 +8,7 @@ c0cdbcc4-092a-4cdd-b1b0-99ebf743dfb1|bridge|{"name":"cBridge","url":"https://cbr
 51a037d9-0c69-45e2-9399-895143ecaec7|bridge|{"name":"Everpay","url":"https://everpay.io/","features":[],"icon":""}
 06b2d31a-5508-49e3-816a-99a7730c1a62|bridge|{"name":"Meson","url":"https://meson.fi/","features":[],"icon":""}
 1819936b-ba9b-4336-983e-2209b9d4d962|bridge|{"name":"MetaPath_me","url":"https://dapp.path.finance/","features":[],"icon":""}
+b38e8353-8be1-4a62-8750-e65952d93f71|bridge|{"name":"RocketX","url":"https://www.rocketx.exchange/","features":[],"icon":""}
 11bb5ad6-1f24-4e23-9925-a8b3b95f6c17|bridge|{"name":"SWFT Bridge","url":"https://defi.swft.pro/","features":[],"icon":""}
 1bd05ed9-6124-416b-bafe-e1d1f7ef53bc|bridge|{"name":"Zero Gravity Portal","url":"https://portal.zglabs.org/","features":[],"icon":""}
 ae192521-18d6-46a7-adbc-5b8ed6db3e80|cex|{"name":"Bibox","url":"https://www.bibox.com/","features":[],"icon":""}
@@ -18,8 +20,11 @@ d985bb4d-571e-4554-9b59-c048b6d2e50a|cex|{"name":"Bitget","url":"https://www.bit
 4452945c-daf7-457d-bb0c-b8794430cad2|cex|{"name":"BitMart","url":"https://www.bitmart.com/","features":[],"icon":""}
 7d17c1c1-4f90-47a5-850d-73450b385a30|cex|{"name":"Bitrue","url":"https://www.bitrue.com/","features":[],"icon":""}
 b6c668af-6c33-4f89-b34d-cffb1bc21800|cex|{"name":"BKEX","url":"https://www.bkex.com/","features":[],"icon":""}
+41e07f8c-2332-44df-8afc-625a9ce7f5ac|cex|{"name":"ChangeNOW ","url":"https://changenow.io/","features":[],"icon":""}
 b225affd-228a-444f-9633-bc27e5d58992|cex|{"name":"CITEX","url":"www.citex.io","features":[],"icon":""}
 bb07fd32-9d88-4820-9e5c-352bc3de4887|cex|{"name":"CoinEx","url":"https://www.coinex.com/","features":[],"icon":""}
+c5cb45ab-0866-4fae-8872-35ae171953c1|cex|{"name":"Coinone","url":"https://coinone.co.kr/","features":[],"icon":""}
+072b8373-2940-4539-8916-41d3a0edaf06|cex|{"name":"CoinRabbit","url":"https://coinrabbit.io/","features":[],"icon":""}
 82a6dfb8-81be-44f5-b974-24f55df80228|cex|{"name":"DigiFinex","url":"https://www.digifinex.com/","features":[],"icon":""}
 759e83a5-ff25-4265-bbc4-9b79cfa93e07|cex|{"name":"Gate.io","url":"https://www.gate.io/","features":[],"icon":""}
 c7828b8b-f68f-439d-b726-4ed6b8830926|cex|{"name":"Hoo","url":"https://hoo.com","features":[],"icon":""}
@@ -52,6 +57,8 @@ f5411d99-b8b4-45e8-9b32-033dac1ff215|dapp|{"name":"AnchorX","url":"https://www.a
 a3bc1f5b-f510-42a1-9e4b-ab44800778d6|dapp|{"name":"CFXs","url":"https://www.cfxs.world/","features":[],"icon":""}
 eb0fbce3-ec1c-48a2-83de-f4c94e0b7a6b|dapp|{"name":"CFXScriptions","url":"https://cfxscriptions.com/","features":[],"icon":""}
 5031a7e0-e7e3-4ad7-b35a-cbf886b4454c|dapp|{"name":"ChainIDE","url":"https://chainide.com/","features":[],"icon":""}
+3bdc642a-1554-4a97-83b4-4beb073526c8|dapp|{"name":"ChainsAtlas","url":"https://www.chainsatlas.com/","features":[],"icon":""}
+b22614a3-ec15-4f14-96ac-2d0e8cd3606c|dapp|{"name":"CoinSender ","url":"https://coinsender.io/","features":[],"icon":""}
 c9668806-d94d-4d78-bb92-838f87c1887b|dapp|{"name":"Concentrator","url":"https://concentrator.aladdin.club/","features":[],"icon":""}
 75128fd5-c4a5-4538-9cc6-df90c7631f47|dapp|{"name":"Conflux Faucets","url":"https://conflux-faucets.com/","features":[],"icon":""}
 28f56213-677c-40cf-b7e1-8136c32b2328|dapp|{"name":"Conflux Token Approvals","url":"https://www.conflux-tokens-approvals.com/","features":[],"icon":""}
@@ -80,6 +87,7 @@ e7302486-b2b5-4dac-b9fb-7629b97e7215|dapp|{"name":"NuLink","url":"https://www.nu
 2d699e07-05de-4a1f-8cdc-7bddb690b255|dapp|{"name":"OpenName","url":"https://open.name/","features":[],"icon":""}
 cffccf66-c620-42d4-9d5c-f1ee26785304|dapp|{"name":"Particle Network","url":"https://particle.network/","features":[],"icon":""}
 a9127213-51ec-4198-bd4f-41485a4ef68e|dapp|{"name":"POS Validators","url":"https://www.conflux-pos-validators.com/","features":[],"icon":""}
+90ab5e14-191e-4789-a886-ea5762c94a13|dapp|{"name":"Protofire.io","url":"https://protofire.io/","features":[],"icon":""}
 2b19d124-74dc-436f-9dc3-ca2d7deae2bc|dapp|{"name":"Pyth Network","url":"https://pyth.network/","features":[],"icon":""}
 df7a2978-4432-45ee-9310-fc31f805c288|dapp|{"name":"ReadON","url":"https://readon.me/","features":[],"icon":""}
 48fa0da8-b6c7-4108-9127-2ac0050b60e7|dapp|{"name":"Safeheron","url":"https://www.safeheron.com/","features":[],"icon":""}
@@ -94,9 +102,7 @@ af6c4740-dcd6-4475-b4e6-e68138962c29|dapp|{"name":"SHUI","url":" https://www.shu
 5d1842c9-6b3b-4a4f-9e3f-b986f8d3df92|dapp|{"name":"ThirdFi","url":"https://www.thirdfi.org/","features":[],"icon":""}
 529f7bc9-41c8-4450-aad8-356507ac6efb|dapp|{"name":"Thirdweb","url":"https://thirdweb.com/","features":[],"icon":""}
 cc2a630c-fef8-4bf1-be9f-639195f3b379|dapp|{"name":"Token Terminal","url":"https://tokenterminal.com/terminal/projects/conflux","features":[],"icon":""}
-4b352042-7960-4f05-9b5c-53335002f104|dapp|{"name":"TraderbotX","url":"https://traderbotx.github.io/","features":[],"icon":""}
 94fbd8d7-7e07-450e-916e-e3ac7856179a|dapp|{"name":"Transit Finance","url":"https://www.transit.finance/","features":[],"icon":""}
-4dab7d19-4e85-4931-94d3-413be9f692a1|dapp|{"name":"Triangle DAO","url":"https://www.triangledao.finance/","features":[],"icon":""}
 2df70fd0-2d89-4487-88ea-96c8c858d986|dapp|{"name":"Tristan","url":"https://tristan.land/","features":[],"icon":""}
 2264c41c-075a-4be0-b543-d49c397eaec5|dapp|{"name":"TrustSwap","url":"https://trustswap.com/","features":[],"icon":""}
 955c3a79-6a0b-4460-897c-fe83d0f0dc82|dapp|{"name":"Turbo Starter","url":"https://turbostarter.io/","features":[],"icon":""}
@@ -109,6 +115,7 @@ d1ca7197-dc59-4dd3-b50b-dbdf2332875f|network|{"name":"Arbitrum","url":"https://a
 afab465f-da9a-42db-868b-4e8be1b8ea4f|network|{"name":"Aurora","url":"https://explorer.mainnet.aurora.dev/","features":[],"icon":""}
 ae00ea62-6dc8-4a26-9c5b-ad7f9cb1f777|network|{"name":"Avalanche","url":"https://avascan.info/","features":[],"icon":""}
 bc44fdba-43f1-48e6-84ee-90542e502d08|network|{"name":"Base","url":"https://basescan.org/","features":[],"icon":""}
+3464666f-0f07-4c0e-91ce-2a85fb7f2f61|network|{"name":"BEVM","url":"https://scan.bevm.io/","features":[],"icon":""}
 b933b556-2143-4cc4-8b17-472e1770bd16|network|{"name":"Bitcoin Network","url":"https://www.blockchain.com/explorer/assets/btc","features":[],"icon":""}
 ea32cfb5-53b2-4aa1-bd65-baac7ca041fc|network|{"name":"BNB Chain","url":"https://bscscan.com/","features":[],"icon":""}
 e250c631-f8a7-41d4-b01e-f6526512bfd9|network|{"name":"Cardano","url":"https://explorer.cardano.org/","features":[],"icon":""}
@@ -122,12 +129,16 @@ e4c7fa86-372e-41e6-9ef3-1a26729f56de|network|{"name":"Gnosis(xDAI)","url":"https
 540d0b08-0f27-4be5-a228-95ba8495ea0a|network|{"name":"Heco","url":"https://hecoinfo.com/","features":[],"icon":""}
 c7692437-43d8-4704-b6c6-a48a3900bc2b|network|{"name":"Iotex","url":"https://iotexscan.io/","features":[],"icon":""}
 dcbe0ed5-a40f-490d-96cb-12b403f51037|network|{"name":"KCC","url":"https://explorer.kcc.io/en","features":[],"icon":""}
+8f65e346-46df-4926-bc02-dec9240bc8b3|network|{"name":"Klaytn","url":"https://klaytnscope.com/","features":[],"icon":""}
 c5c65fab-ab11-4901-9790-8537e96a8ebe|network|{"name":"Lambda Network","url":"https://lambda.im/","features":[],"icon":""}
 106845bc-4415-4a5f-a6c4-c003c8cef47f|network|{"name":"Linea","url":"https://lineascan.build/","features":[],"icon":""}
 3ea76329-b4c5-497f-ad19-ce1a76a98d6c|network|{"name":"Mantle","url":"https://explorer.mantle.xyz/","features":[],"icon":""}
+88c8854a-d427-4cad-b026-a21be33a5022|network|{"name":"Map Protocol","url":"https://www.maposcan.io/","features":[],"icon":""}
+adda0a70-05bf-48f0-8777-e5124c5c6443|network|{"name":"Merlin Chain","url":"https://scan.merlinchain.io/","features":[],"icon":""}
 626f3875-5051-4aea-87e3-4434120e44bf|network|{"name":"Metis","url":"https://andromeda-explorer.metis.io/","features":[],"icon":""}
 74061694-e079-4752-ae73-87a07198e25b|network|{"name":"Moonbeam","url":"https://moonscan.io/","features":[],"icon":""}
 707a38b7-c327-477f-b2f5-b00a33ee4e1a|network|{"name":"Moonriver","url":"https://moonriver.moonscan.io/","features":[],"icon":""}
+1f84f3ed-8484-4257-8294-b8dfc35270ea|network|{"name":"NEAR","url":"https://explorer.near.org/","features":[],"icon":""}
 0412306a-2f7c-4b94-b707-270b880f7b15|network|{"name":"OKC","url":"https://www.oklink.com/okc","features":[],"icon":""}
 a5efefa9-7eb4-4701-930f-e36f598915be|network|{"name":"opBNB","url":"https://opbnbscan.com/","features":[],"icon":""}
 22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5|network|{"name":"Optimism","url":"https://optimistic.etherscan.io/","features":[],"icon":""}
@@ -180,9 +191,11 @@ c905d857-e015-4994-8847-e7dd5a1ec135|wallet|{"name":"Anyweb","url":"https://www.
 f6cab06c-9f52-454b-a68e-7538cd0a3324|wallet|{"name":"Coin98","url":"https://coin98.com/","features":[],"icon":""}
 9e2b4f47-c1db-49df-b103-c26506d5f183|wallet|{"name":"Coinhub","url":"https://www.coinhub.org/","features":[],"icon":""}
 b8bd713a-a156-4d94-8096-e434c5cfaad7|wallet|{"name":"Fluent Wallet","url":"https://fluentwallet.com/","features":[],"icon":""}
+0348b27c-836e-43a3-8c88-cd966fdd83f7|wallet|{"name":"FordeFi","url":"https://fordefi.com/","features":[],"icon":""}
 8d63f259-518b-4598-ae10-a8d197720048|wallet|{"name":"Fox Wallet","url":"https://foxwallet.com/","features":[],"icon":""}
 debccaf6-02a2-4df4-a723-4a4276822e0d|wallet|{"name":"Halo Wallet","url":"https://halo.social/","features":[],"icon":""}
 28806184-55bd-4df7-928d-0cf61419ef00|wallet|{"name":"Hashkey","url":"https://me.hashkey.com/en","features":[],"icon":""}
+c7ae023a-3713-4296-bd73-792c9ded2b2e|wallet|{"name":"imToken","url":"https://token.im/","features":[],"icon":""}
 0d08ad95-4bcb-4589-b8d7-fb0a1dfaead8|wallet|{"name":"Jade Wallet","url":"https://www.jadewallet.io/","features":[],"icon":""}
 63d98df3-4e63-4ba4-9e69-36f7d1db831c|wallet|{"name":"Lead Wallet","url":"https://leadwallet.io/","features":[],"icon":""}
 8d792dae-41df-4571-8099-010555ab1294|wallet|{"name":"Math Wallet","url":"https://mathwallet.org/","features":[],"icon":""}
@@ -190,5 +203,7 @@ e3f3b37d-e42b-4070-bfbb-6892f3967fa7|wallet|{"name":"MetaMask","url":"https://me
 7a811b64-b267-4006-9ce7-39010d331a83|wallet|{"name":"Nabox","url":"https://nabox.io/","features":[],"icon":""}
 6614fc8c-3bde-42cb-ab91-f0e8018bde2b|wallet|{"name":"OKX Wallet","url":"https://www.okx.com/web3","features":[],"icon":""}
 7cf8e837-c02c-49c2-88c0-24dbdd7fb31f|wallet|{"name":"OneKey Wallet","url":"https://onekey.so/","features":[],"icon":""}
+d55364c8-ea43-4646-83e6-07212f020f90|wallet|{"name":"Rabby Wallet","url":"https://rabby.io/","features":[],"icon":""}
 b90d86c3-a242-4bbd-97a0-cd290547f965|wallet|{"name":"Safe Wallet","url":" https://safe.conflux123.xyz/","features":[],"icon":""}
 b33a91e5-0452-4217-95f1-c5898586ce1d|wallet|{"name":"Token Pocket","url":"https://www.tokenpocket.pro/","features":[],"icon":""}
+2aef61ef-bf00-4771-85bb-32fed9c54081|wallet|{"name":"TrustWallet","url":"https://trustwallet.com/","features":[],"icon":""}
