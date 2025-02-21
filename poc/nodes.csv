@@ -68,6 +68,7 @@ c76cf34c-b52f-49cf-b281-b2ebf5cc7208|dapp|{"name":"dForce","url":"https://dforce
 5eb845b1-a55a-410f-85f1-347b4b09ff06|dapp|{"name":"Galaxy Blitz","url":"https://beta.galaxyblitz.online/","features":["game"],"icon":""}
 b8975eef-84d3-4c32-9345-d8f22ef5a769|dapp|{"name":"Genify","url":"https://genify.xyz/","features":[],"icon":""}
 b564d098-21ec-48b9-a46b-638a1f3a50a9|dapp|{"name":"Goledo Finance","url":"https://www.goledo.cash/","features":[],"icon":""}
+e891a03d-a3f7-4b40-a113-d1533a0c714c|dapp|{"name":"GRAFUN","url":"https://www.gra.fun/","features":[],"icon":""}
 f68150ec-3daa-40b2-b2b5-a4b08b0d8946|dapp|{"name":"Hippocrat","url":"https://hippocrat.io/","features":[],"icon":""}
 e3e0c626-3434-4f20-ab3e-1da11d0ae374|dapp|{"name":"Lil Minter","url":"https://www.lilminter.com/","features":[],"icon":""}
 dfd5bd22-60ef-4d9c-baea-b422dbcaf553|dapp|{"name":"ManekiMeow","url":"https://manekimeow.org/","features":[],"icon":""}
@@ -128,12 +129,14 @@ c5c65fab-ab11-4901-9790-8537e96a8ebe|network|{"name":"Lambda Network","url":"htt
 626f3875-5051-4aea-87e3-4434120e44bf|network|{"name":"Metis","url":"https://andromeda-explorer.metis.io/","features":[],"icon":""}
 74061694-e079-4752-ae73-87a07198e25b|network|{"name":"Moonbeam","url":"https://moonscan.io/","features":[],"icon":""}
 707a38b7-c327-477f-b2f5-b00a33ee4e1a|network|{"name":"Moonriver","url":"https://moonriver.moonscan.io/","features":[],"icon":""}
+1f84f3ed-8484-4257-8294-b8dfc35270ea|network|{"name":"NEAR","url":"https://explorer.near.org/","features":[],"icon":""}
 0412306a-2f7c-4b94-b707-270b880f7b15|network|{"name":"OKC","url":"https://www.oklink.com/okc","features":[],"icon":""}
 a5efefa9-7eb4-4701-930f-e36f598915be|network|{"name":"opBNB","url":"https://opbnbscan.com/","features":[],"icon":""}
 22d7fc1e-e8c4-4473-8e3a-ac4de1c3d4b5|network|{"name":"Optimism","url":"https://optimistic.etherscan.io/","features":[],"icon":""}
 792a617a-9d9d-4398-b4bd-a2ac326dadb7|network|{"name":"Polygon zkEVM","url":"https://zkevm.polygonscan.com/","features":[],"icon":""}
 d2cf9999-e014-443e-9c60-2901fbc67a07|network|{"name":"Polygon","url":"https://polygonscan.com/","features":[],"icon":""}
 de9e14aa-e2ea-4183-ad8e-346175bf079d|network|{"name":"Scroll","url":"https://scrollscan.com/","features":[],"icon":""}
+8e588a36-4f3d-4575-a626-59e9455d82a8|network|{"name":"Ton","url":"tonscan.org","features":[],"icon":""}
 6eac7082-4692-4e44-832b-05a102aa33a7|network|{"name":"Tron","url":"https://tronscan.org/","features":[],"icon":""}
 3dd3b07b-6ada-4252-ae7e-d5833d495cbc|network|{"name":"zkSync Era","url":"https://explorer.zksync.io/","features":[],"icon":""}
 405952d9-df63-4d1b-87de-bad63f6c89a0|token|{"name":"binance USDC","symbol":"USDC","address":"0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d","url":"https://bscscan.com/address/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d","features":[],"icon":""}
