@@ -963,7 +963,7 @@
       "id": "8e588a36-4f3d-4575-a626-59e9455d82a8",
       "type": "network",
       "name": "Ton",
-      "url": "tonscan.org",
+      "url": "https://tonscan.org",
       "address": null
     },
     {

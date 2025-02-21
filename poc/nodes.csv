@@ -136,7 +136,7 @@ a5efefa9-7eb4-4701-930f-e36f598915be|network|{"name":"opBNB","url":"https://opbn
 792a617a-9d9d-4398-b4bd-a2ac326dadb7|network|{"name":"Polygon zkEVM","url":"https://zkevm.polygonscan.com/","features":[],"icon":""}
 d2cf9999-e014-443e-9c60-2901fbc67a07|network|{"name":"Polygon","url":"https://polygonscan.com/","features":[],"icon":""}
 de9e14aa-e2ea-4183-ad8e-346175bf079d|network|{"name":"Scroll","url":"https://scrollscan.com/","features":[],"icon":""}
-8e588a36-4f3d-4575-a626-59e9455d82a8|network|{"name":"Ton","url":"tonscan.org","features":[],"icon":""}
+8e588a36-4f3d-4575-a626-59e9455d82a8|network|{"name":"Ton","url":"https://tonscan.org","features":[],"icon":""}
 6eac7082-4692-4e44-832b-05a102aa33a7|network|{"name":"Tron","url":"https://tronscan.org/","features":[],"icon":""}
 3dd3b07b-6ada-4252-ae7e-d5833d495cbc|network|{"name":"zkSync Era","url":"https://explorer.zksync.io/","features":[],"icon":""}
 405952d9-df63-4d1b-87de-bad63f6c89a0|token|{"name":"binance USDC","symbol":"USDC","address":"0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d","url":"https://bscscan.com/address/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d","features":[],"icon":""}
