@@ -393,6 +393,13 @@
       "address": null
     },
     {
+      "id": "1117dab5-84b7-40ff-a69b-579e92471ba6",
+      "type": "dapp",
+      "name": "ConfiPump",
+      "url": "https://confipump.fun/",
+      "address": null
+    },
+    {
       "id": "75128fd5-c4a5-4538-9cc6-df90c7631f47",
       "type": "dapp",
       "name": "Conflux Faucets",
@@ -1216,6 +1223,13 @@
       "type": "wallet",
       "name": "Bitizen",
       "url": "https://bitizen.org/",
+      "address": null
+    },
+    {
+      "id": "da635df8-708d-41d5-b5e5-56ceec731834",
+      "type": "wallet",
+      "name": "BIM Wallet",
+      "url": "https://swiftshield.tech/",
       "address": null
     },
     {
@@ -5383,6 +5397,26 @@
       "source": "ff2ef38f-4fbb-4100-89f6-fe0ac1b1497e",
       "dest": "4967a41b-13e6-4c0e-adae-331ef39b6183",
       "predicate": "transacts_on"
+    },
+    {
+      "source": "da635df8-708d-41d5-b5e5-56ceec731834",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "da635df8-708d-41d5-b5e5-56ceec731834",
+      "predicate": "has_transactor"
+    },
+    {
+      "source": "1117dab5-84b7-40ff-a69b-579e92471ba6",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "1117dab5-84b7-40ff-a69b-579e92471ba6",
+      "predicate": "has_transactor"
     }
   ]
 }

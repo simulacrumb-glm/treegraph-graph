@@ -55,6 +55,7 @@ a3bc1f5b-f510-42a1-9e4b-ab44800778d6|dapp|{"name":"CFXs","url":"https://www.cfxs
 3bdc642a-1554-4a97-83b4-4beb073526c8|dapp|{"name":"ChainsAtlas","url":"https://www.chainsatlas.com/","features":[],"icon":""}
 b22614a3-ec15-4f14-96ac-2d0e8cd3606c|dapp|{"name":"CoinSender ","url":"https://coinsender.io/","features":[],"icon":""}
 c9668806-d94d-4d78-bb92-838f87c1887b|dapp|{"name":"Concentrator","url":"https://concentrator.aladdin.club/","features":[],"icon":""}
+1117dab5-84b7-40ff-a69b-579e92471ba6|dapp|{"name":"ConfiPump","url":"https://confipump.fun/","features":[],"icon":""}
 75128fd5-c4a5-4538-9cc6-df90c7631f47|dapp|{"name":"Conflux Faucets","url":"https://conflux-faucets.com/","features":[],"icon":""}
 28f56213-677c-40cf-b7e1-8136c32b2328|dapp|{"name":"Conflux Token Approvals","url":"https://www.conflux-tokens-approvals.com/","features":[],"icon":""}
 748ba8db-1952-494f-b7b5-24602b41b31e|dapp|{"name":"Convex Finance","url":"https://www.convexfinance.com/","features":[],"icon":""}
@@ -173,6 +174,7 @@ d634d434-5884-498f-9dae-17040aac01a7|token_group|{"name":"USDT Token Group","sym
 38c68f83-eafb-4028-a48e-108d82459417|token_group|{"name":"USX Token Group","symbol":"USX","features":[],"icon":""}
 c905d857-e015-4994-8847-e7dd5a1ec135|wallet|{"name":"Anyweb","url":"https://www.anyweb.cc/","features":[],"icon":""}
 83959077-9084-43f6-a94a-69767049f91f|wallet|{"name":"Bitizen","url":"https://bitizen.org/","features":[],"icon":""}
+da635df8-708d-41d5-b5e5-56ceec731834|wallet|{"name":"BIM Wallet","url":"https://swiftshield.tech/","features":[],"icon":""}
 5feaaa62-0410-4660-9090-6bbde343c607|wallet|{"name":"BitKeep","url":"https://bitkeep.com/","features":[],"icon":""}
 72eb9f19-894a-408c-b909-c86b9dc578ff|wallet|{"name":"Box Wallet","url":"https://www.aebox.io/","features":[],"icon":""}
 74d48596-207c-40a2-8d03-d88406be1bc6|wallet|{"name":"Cobo Wallet","url":"https://www.cobo.com/","features":[],"icon":""}
