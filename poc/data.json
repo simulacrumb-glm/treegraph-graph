@@ -218,6 +218,13 @@
       "address": null
     },
     {
+      "id": "58b868d8-92c9-4ac3-95be-99391a36a55e",
+      "type": "cex",
+      "name": "Kraken",
+      "url": "https://www.kraken.com/",
+      "address": null
+    },
+    {
       "id": "3d518595-b967-4b97-8770-0ce10da1548f",
       "type": "cex",
       "name": "KuCoin",
@@ -3979,6 +3986,11 @@
       "predicate": "has_transactor"
     },
     {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "58b868d8-92c9-4ac3-95be-99391a36a55e",
+      "predicate": "has_transactor"
+    },
+    {
       "source": "1db9c164-dd6a-4339-95ff-ea69fcb9e890",
       "dest": "292fdd1c-a0f5-4029-bc36-0e3b23e0c7e5",
       "predicate": "is_member_of"
@@ -6061,6 +6073,11 @@
     {
       "source": "ce7f2104-3f7f-479e-b49d-da1de0ddfdca",
       "dest": "8e588a36-4f3d-4575-a626-59e9455d82a8",
+      "predicate": "transacts_on"
+    },
+    {
+      "source": "58b868d8-92c9-4ac3-95be-99391a36a55e",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
       "predicate": "transacts_on"
     }
   ]

@@ -482,6 +482,7 @@ d2cf9999-e014-443e-9c60-2901fbc67a07|ce7f2104-3f7f-479e-b49d-da1de0ddfdca|has_tr
 3ea76329-b4c5-497f-ad19-ce1a76a98d6c|ce7f2104-3f7f-479e-b49d-da1de0ddfdca|has_transactor
 6eac7082-4692-4e44-832b-05a102aa33a7|ce7f2104-3f7f-479e-b49d-da1de0ddfdca|has_transactor
 8e588a36-4f3d-4575-a626-59e9455d82a8|ce7f2104-3f7f-479e-b49d-da1de0ddfdca|has_transactor
+7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|58b868d8-92c9-4ac3-95be-99391a36a55e|has_transactor
 1db9c164-dd6a-4339-95ff-ea69fcb9e890|292fdd1c-a0f5-4029-bc36-0e3b23e0c7e5|is_member_of
 8a2d035e-583e-42a7-9ce8-66952e5df1a1|292fdd1c-a0f5-4029-bc36-0e3b23e0c7e5|is_member_of
 9967e1b4-707d-40ef-a096-c703107e3437|292fdd1c-a0f5-4029-bc36-0e3b23e0c7e5|is_member_of
@@ -899,3 +900,4 @@ ce7f2104-3f7f-479e-b49d-da1de0ddfdca|772e1ba7-82cb-46a4-815a-106e429f52d2|transa
 ce7f2104-3f7f-479e-b49d-da1de0ddfdca|3ea76329-b4c5-497f-ad19-ce1a76a98d6c|transacts_on
 ce7f2104-3f7f-479e-b49d-da1de0ddfdca|6eac7082-4692-4e44-832b-05a102aa33a7|transacts_on
 ce7f2104-3f7f-479e-b49d-da1de0ddfdca|8e588a36-4f3d-4575-a626-59e9455d82a8|transacts_on
+58b868d8-92c9-4ac3-95be-99391a36a55e|7b760c3b-f49f-4cd8-8ab0-57e06cc0e484|transacts_on
