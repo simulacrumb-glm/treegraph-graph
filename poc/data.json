@@ -2066,6 +2066,16 @@
       "predicate": "has_member"
     },
     {
+      "source": "aa2df60b-1739-4e48-b746-26731e6ba8fd",
+      "dest": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "predicate": "operates_on"
+    },
+    {
+      "source": "7b760c3b-f49f-4cd8-8ab0-57e06cc0e484",
+      "dest": "aa2df60b-1739-4e48-b746-26731e6ba8fd",
+      "predicate": "has_member"
+    },
+    {
       "source": "a3659261-9b54-41cc-8c5f-55085781a09b",
       "dest": "1f971af6-2acc-4b95-8e17-305410afe090",
       "predicate": "has_member"
